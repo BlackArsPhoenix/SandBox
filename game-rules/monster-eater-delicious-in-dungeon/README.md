@@ -19,9 +19,11 @@
 | Файл | Описание |
 |------|----------|
 | [`Monster-Eater-EN-Rulebook.pdf`](./Monster-Eater-EN-Rulebook.pdf) | Исходный английский фан-рулбук (32 стр., сжатая копия) |
-| [`Monster-Eater-rules-ru.pdf`](./Monster-Eater-rules-ru.pdf) | Русский перевод правил |
+| [`Monster-Eater-rules-ru-illustrated.pdf`](./Monster-Eater-rules-ru-illustrated.pdf) | **RU с сохранением вёрстки** — оригинальные страницы + русский текст поверх (картинки, схемы, примеры) |
+| [`Monster-Eater-rules-ru.pdf`](./Monster-Eater-rules-ru.pdf) | Текстовый RU-перевод (без иллюстраций) |
 | [`sources.md`](./sources.md) | Источники |
-| [`generate_ru_pdf.py`](./generate_ru_pdf.py) | Скрипт сборки RU PDF |
+| [`generate_illustrated_ru.py`](./generate_illustrated_ru.py) | Сборка иллюстрированного RU PDF |
+| [`generate_ru_pdf.py`](./generate_ru_pdf.py) | Сборка текстового RU PDF |
 
 ## Кратко о правилах
 
