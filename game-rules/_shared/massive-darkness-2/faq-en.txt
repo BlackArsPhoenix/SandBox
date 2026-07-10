@@ -1,0 +1,194 @@
+
+
+===== СТРАНИЦА 1 =====
+
+ Q: What does an Enemy mean?
+A: An Enemy is either a Boss, a Roaming Monster, or a Mob. A Mob, 
+which is a group of Minions plus a Leader, is considered an Enemy as 
+a whole. So, any effect which targets or affects an Enemy will affect 
+the Mob as 1 single Enemy. For example, if an ability would pull or 
+push an Enemy, when targeting a Mob, it will pull or push the whole 
+Mob. If an ability would deal Wounds to an Enemy, when targeting a 
+Mob, it will deal Wounds to the Mob following the regular rules for 
+wounding a Mob.
+ Q: Can I kill the Leader of a Mob along with the Minions 
+in the same attack?
+A: Yes. The Leader of a Mob is always the last one to take Wounds. 
+However, if a Mob takes enough Wounds to kill the existing Minions 
+and there are still Wounds left, the Leader immediately suffers those 
+Wounds. If there are enough Wounds to kill the Leader, then the 
+Leader is killed and the Heroes receive their rewards.
+ Q: Do Minions spawn from the Roaming Monster Portal 
+(purple)?
+A: Yes. The Roaming Monster Portal indicates where the Roaming 
+Monster should spawn when the Darkness Track indicates it to. 
+However, when the Darkness Track indicates to spawn a Mob, players 
+must spawn 1 Mob in each existing Portal in the Dungeon, including 
+the purple one.
+ Q: What do the 3+  and 5+  Portals represent in the 
+Dungeon’s Quest instructions?
+A: Depending on the number of Heroes participating in the Quest, 
+the number of Portal tokens in the Dungeon changes. When playing 
+with only 1 or 2 Heroes, use only the Roaming Monster Portal (purple). 
+When playing with 3 or 4 Heroes, also add 1 Portal token (green) in 
+the Zone with the 3+ 
+ marker. When playing with 5 or 6 Heroes, add 
+another Portal token (green) in the Zone with the 5+  marker.
+ Q: When killing a Leader or a Roaming Monster, the 
+whole party gains XP?
+A: Yes. Every time an Enemy miniature is killed, the Hero who killed 
+that miniature immediately gains 1 XP. On top of that, if the killed 
+miniature was a Leader, each Hero in the party, including the Hero 
+that killed the Leader, gains 2 XP. If the Killed miniature was a 
+Roaming Monster, then the whole party of Heroes gain 4 XP each, 
+including the Hero who killed the Roaming Monster. In other words, 
+a Hero who kills a Leader gains 3 XP in total, while each other Hero 
+gains 2 XP. A Hero who kills a Roaming Monster gains a total of 5 XP, 
+while each other Hero gains 4 XP.
+OFFICIAL FAQ
+MASSIVE DARKNESS 2 - FAQ
+
+
+===== СТРАНИЦА 2 =====
+
+ Q: When can I use an ability and how many times can I 
+use it?
+A: If an ability has the word Attack, Defense, or Combat as a timing 
+condition, you can use them only once per combat! Which means you 
+can use it once every Attack action you perform, or once every attack 
+you suffer from an Enemy. Of course, if the ability says Attack, you 
+can only use it during your Attack action. If it says Defense, you can 
+only use it when you get attacked. Combat means you can use it in 
+both situations. If an ability has Move as a timing condition, it means 
+it can only be used during a Move action. Please note that most of those 
+abilities also include a cost or another requirement, like spending 
+Mana or other resource, in order to be performed.
+For example, if a Hero has the Spiked Boots equipped, once every time they 
+perform an Attack action, or when they are the target of an Enemy’s attack, 
+they can spend 1 
+ to deal 1 Wound to that Enemy. Even if the Hero has 
+more than 1 Mana, they can’t spend more Mana during the same combat to 
+trigger its effect again.
+Otherwise, if the ability does not have an action as a timing condition, 
+it can be used at any moment during the Hero’s turn, except during an 
+action. So, it must always be used before or after an action. Abilities 
+without an action as a timing condition can be used as many times as 
+the Hero wants, as long as they can pay the required costs.
+For example, the Wand of the Dead is not tied to any Attack action, 
+which means a Hero can use it as many times as they want to Heal 2, as 
+long as they have enough Mana to keep paying for this its effect. A Hero 
+may never use the Wand during combat since there is no combat keyword 
+as a timing condition.
+Some abilities have the keyword Anytime. These abilities can be used 
+anytime, including during other Hero’s turn or during the Enemy Phase, 
+but never during an action. All Consumable items (gray background) 
+are considered having the keyword Anytime. So, a Hero can, for 
+example, be attacked by an Enemy and drink a Healing Potion after the 
+Enemy’s first attack but before its second attack.
+ Q: How many times can an Enemy’s special ability trigger?
+A: Enemies’ special abilities are triggered by the 
+ rolled on Enemy 
+dice. Different from Combat abilities on Heroes, Enemies can trigger 
+their Abilities as many times as they can, as long as they have enough 
+ on their dice roll for doing that. For example, if an ability only 
+needs 1 
+ to be triggered and 3 
+ were rolled, that ability will be 
+triggered 3 times during that attack. But remember that dice can be 
+triggered in any order, so the Hero may benefit from that, if possible.
+NOTE: In some rare exceptions, there are Enemies whose ability 
+may only trigger once. In these cases, it is specified in the Enemy’s 
+special ability description.
+ Q: How much Max Health and Mana do I gain during 
+Level Up?
+A: The Level token is a reference for how much Max Health and Max 
+Mana you have at each Level and it gets updated every time a Hero 
+levels up. To know how much Max Health and Max Mana your Hero 
+currently has, simply look at their starting Health and Mana and add 
+the amount shown on the Level token at your current Level, ignoring 
+all information from previous Levels.
+ Q: Do KO’d Heroes gain XP? And do they level up?
+A: Yes and yes. Even KO’d Heroes still gain XP from killed Leaders 
+and Roaming Monsters, as well as from some specific Quest 
+objectives. Also, during the Level Up Phase, a KO’d Hero levels up 
+as usual. However, it doesn’t matter how much Max Health a Hero 
+gains from leveling up, they always come back up with 3 Health when 
+a Lifebringer token is spent.
+ Q: What happens with Frost and Fire tokens when the 
+party enters a Boss Fight?
+A: Fire and Frost tokens are removed from all Heroes before the Boss 
+Fight begins.
+MASSIVE DARKNESS 2 - FAQ
+
+
+===== СТРАНИЦА 3 =====
+
+ Q: What does “tier” mean?
+A: If any effect in the game instructs the players to get a card from 
+the deck “one tier higher,” it means the next deck in ascending order 
+from the one being currently used. For example, if the Dungeon 
+Level is currently 1 and players need to spawn a Mob with a weapon 
+one tier higher, it means a weapon from the Mob Item deck Levels 
+3-4, instead of Levels 1-2. The same applies for Mobs and Roaming 
+Monsters cards.
+ CLASS SPECIFIC 
+QUESTIONS
+ Q: Can I place my Hero in a not-yet revealed Chamber 
+using the Forge Gate spell?
+A: No. You can only use the Forge Gate spell to place Heroes in Forges 
+inside Chambers that have been already revealed.
+ Q: Can the Wizard or the Paladin rearrange their skills?
+A: No. Once you have allocated a skill in a Consecration column or 
+in a quadrant of the Spell Amulet, it is locked there. Please note that 
+there are special rules for both Classes when playing in Campaign 
+Mode, where the Paladin and Wizard can rearrange their skills 
+during the setup of each Quest at the beginning of the Quest Phase.
+ Q: Where do I remove Rogue Tokens from?
+A: When acquiring a new skill that indicates the Rogue to remove 
+tokens, the Rogue may remove either from the discard pile or from 
+the tokens inside the Thieving Tools bag. If removing from inside the 
+Bag, make sure to not confuse the discard pile with the active ones.
+ Q: How does the “Move up to 2, then Attack” Rogue 
+token work?
+A: This specific token is an Attack token, which means it will trigger 
+its benefit when the Rogue takes an Attack action with it. In that case, 
+the Rogue is not gaining 2 MP. Instead, they must move up to 2 Zones 
+before their attack. It’s simply a positioning bonus before the attack.
+ Q: Can the Shaman take a Recover action to gain an 
+Element?
+A: Yes. The Shaman can take Recover actions and choose to gain Mana, 
+increasing any element on their Track, instead. Even if the Shaman 
+has Mana equal to their maximum, they can still increase the Element 
+Track when receiving Mana from any source.
+ Q: How does the Rogue’s Poison token work when 
+fighting a Boss?
+A: Once an Enemy is Poisoned, along with any other possible effects, 
+it will take Wounds at the start of each of its activations. Since the 
+Boss activates between each Hero’s turn, as long as it has a Poison 
+token, it will take Wounds at the beginning of each of its activations 
+between every Hero’s turns.
+ Q: In Heavenfall, do Classes reset for the following Quest?
+A: Yes. From one Quest to another, during the Campaign, Heroes 
+reset their Class-specific components, except for their skills. They do 
+not gain any new skills during the setup of the next Quest. They keep 
+all skills acquired previously, instead, along with their respective 
+benefits and abilities. Note that Heroes also keep most of their items, 
+their unspent XP (if they have been victorious in the last Quest), as 
+well as their current Level, starting the next Quest with both their 
+Health and Mana reset at the Hero’s current Level Max value.
+ ERRATA 
+A few rules need further clarification and some components were 
+incorrectly printed. Please follow the reference below for your 
+next adventures.
+• Recover action and Fountains can remove Fire tokens equal to the 
+amount of Health the Hero gains by the Recover action or by the 
+Fountain interaction.
+• When playing as the Necromancer and reviving a Roaming Monster, 
+ignore their Enemy dice. The only dice used for Attack and Defense 
+are the Yellow, Orange, Red, Blue, and Green dice referred to on 
+their cards.
+• Dragon Mask should read: “Action: Add 3 
+ to any Enemy in 
+LoS.” instead of “Action: Add 3 
+ to any Enemy.”
+MASSIVE DARKNESS 2 - FAQ
