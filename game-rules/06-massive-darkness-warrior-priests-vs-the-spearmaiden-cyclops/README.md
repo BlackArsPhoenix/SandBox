@@ -7,7 +7,7 @@
 
 ## Правила
 
-См. полный текст: [`../../_shared/massive-darkness-1/rules-ru.txt`](../../_shared/massive-darkness-1/rules-ru.txt)
+См. PDF правил: [`../_shared/massive-darkness-1/Kromeshnaya-tma-rules-ru.pdf`](../_shared/massive-darkness-1/Kromeshnaya-tma-rules-ru.pdf)
 
 ## Метаданные Tesera
 
@@ -266,7 +266,7 @@ Gameplay на английском языке от CMON.
 
 ## Локальные материалы
 
-- [`class-sheets-warrior-priest-ru.txt`](./class-sheets-warrior-priest-ru.txt) — листы класса «Боевой жрец» (Crowd Games / Яндекс.Диск)
+- [`Boevoy-zhrec-class-sheets.pdf`](./Boevoy-zhrec-class-sheets.pdf) — листы класса «Боевой жрец» (Crowd Games / Яндекс.Диск)
 
 ## Ссылки с Tesera
 

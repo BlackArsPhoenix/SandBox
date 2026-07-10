@@ -25,9 +25,9 @@
 
 ## Общие рулбуки
 
-- [Massive Darkness 1 — правила (RU, текст)](./_shared/massive-darkness-1/rules-ru.txt) — [источники](./_shared/massive-darkness-1/sources.md)
-- [Massive Darkness 2 — правила (RU, текст)](./_shared/massive-darkness-2/rules-ru.txt) — [источники](./_shared/massive-darkness-2/sources.md)
-- [Massive Darkness 2 — FAQ EN](./_shared/massive-darkness-2/faq-en.txt)
+- [Massive Darkness 1 — правила (RU, PDF)](./_shared/massive-darkness-1/Kromeshnaya-tma-rules-ru.pdf) — [источники](./_shared/massive-darkness-1/sources.md)
+- [Massive Darkness 2 — правила (RU, PDF)](./_shared/massive-darkness-2/Kromeshnaya-tma-Preispodnyaya-rules-ru.pdf) — [источники](./_shared/massive-darkness-2/sources.md)
+- [Massive Darkness 2 — FAQ EN (PDF)](./_shared/massive-darkness-2/MD2-FAQ-v1.1-en.pdf)
 
 ## Откуда взяты материалы
 
@@ -36,7 +36,7 @@
 3. **Crowd Games** — описания и состав розничных дополнений MD1.
 4. **CMON / BGG** — состав Lightbringer Pack и Upgrade Pack, где на RU-страницах не было отдельного рулбука.
 
-PDF-оригиналы в репозиторий не клались (большие бинарники); ссылки на скачивание — в `sources.md`.
+В репозитории лежат исходные PDF/DOCX из источников; ссылки — в `sources.md`.
 
 ## Серии правил (дополнительно)
 

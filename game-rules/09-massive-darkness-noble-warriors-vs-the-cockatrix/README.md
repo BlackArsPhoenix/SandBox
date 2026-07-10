@@ -7,7 +7,7 @@
 
 ## Правила
 
-См. полный текст: [`../../_shared/massive-darkness-1/rules-ru.txt`](../../_shared/massive-darkness-1/rules-ru.txt)
+См. PDF правил: [`../_shared/massive-darkness-1/Kromeshnaya-tma-rules-ru.pdf`](../_shared/massive-darkness-1/Kromeshnaya-tma-rules-ru.pdf)
 
 ## Метаданные Tesera
 
@@ -262,7 +262,7 @@ Gameplay на английском языке от CMON.
 
 ## Локальные материалы
 
-- [`class-sheets-noble-warrior-ru.txt`](./class-sheets-noble-warrior-ru.txt) — листы класса «Доблестный воитель» (Crowd Games / Яндекс.Диск)
+- [`Doblestnyy-voitel-class-sheets.pdf`](./Doblestnyy-voitel-class-sheets.pdf) — листы класса «Доблестный воитель» (Crowd Games / Яндекс.Диск)
 
 ## Ссылки с Tesera
 

@@ -7,9 +7,9 @@
 
 | Файл | Содержание |
 |------|------------|
-| [`core-rules-en.txt`](./core-rules-en.txt) | Официальный rulebook базовой игры EN |
-| [`core-rules-ru.txt`](./core-rules-ru.txt) | Любительский перевод правил RU (Tesera / Zero) |
-| [`universal-rules-v9-en.txt`](./universal-rules-v9-en.txt) | Universal Rulebook v9 EN (через Heroes of Asgard) |
+| [`Legendary-Rulebook-FINAL2-en.pdf`](./Legendary-Rulebook-FINAL2-en.pdf) | Официальный rulebook базовой игры EN |
+| [`Pravila-na-russkom.docx`](./Pravila-na-russkom.docx) | Любительский перевод правил RU (Tesera / Zero) |
+| [`Marvel-Legendary-Universal-Rules-v9-en.pdf`](./Marvel-Legendary-Universal-Rules-v9-en.pdf) | Universal Rulebook v9 EN (через Heroes of Asgard) |
 
 ## Полезные ссылки
 
