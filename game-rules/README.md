@@ -45,3 +45,4 @@
 | BattleCON | [`series-battlecon/`](./series-battlecon/) |
 | Unmatched | [`series-unmatched/`](./series-unmatched/) |
 | Legendary: Marvel DBG | [`series-legendary-marvel-dbg/`](./series-legendary-marvel-dbg/) |
+| Monster Eater (Dungeon Meshi) | [`monster-eater-delicious-in-dungeon/`](./monster-eater-delicious-in-dungeon/) |
