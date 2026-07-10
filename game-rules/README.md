@@ -37,3 +37,11 @@
 4. **CMON / BGG** — состав Lightbringer Pack и Upgrade Pack, где на RU-страницах не было отдельного рулбука.
 
 PDF-оригиналы в репозиторий не клались (большие бинарники); ссылки на скачивание — в `sources.md`.
+
+## Серии правил (дополнительно)
+
+| Серия | Папка |
+|-------|-------|
+| BattleCON | [`series-battlecon/`](./series-battlecon/) |
+| Unmatched | [`series-unmatched/`](./series-unmatched/) |
+| Legendary: Marvel DBG | [`series-legendary-marvel-dbg/`](./series-legendary-marvel-dbg/) |

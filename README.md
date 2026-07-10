@@ -2,6 +2,9 @@
 
 ## game-rules
 
-Правила последних 10 игр, добавленных в коллекцию профиля Tesera **Black_Phoenix** (Боровецкий Арсений, Смоленск).
+Правила настольных игр для быстрого анализа:
+
+- последние 10 игр коллекции Tesera **Black_Phoenix** (Massive Darkness);
+- серии **BattleCON**, **Unmatched**, **Legendary Marvel DBG**.
 
 См. [game-rules/README.md](./game-rules/README.md).
