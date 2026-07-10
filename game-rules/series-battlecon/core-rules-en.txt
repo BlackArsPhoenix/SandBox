@@ -1,0 +1,1360 @@
+
+
+===== СТРАНИЦА 1 =====
+
+
+
+===== СТРАНИЦА 2 =====
+
+2
+3
+v4.2 Complete Rulebook
+4th Edition Updated on February 5th, 2020
+Game Overview
+In BattleCON, take on the role of a fighter from the vast World of Indines and 
+use their unique abilities and tactics to defeat a rival in single combat! 
+Each turn, both fighters will select an attack, commit their resources to it, and 
+then reveal their actions together. The chosen attacks play out, and their 
+interplay determines whether each attack will land and what the results of the 
+hits will be. Knock out your opponent to win!
+Learning the 
+Game
+You can skip the rulebook and watch a 
+tutorial video at the link below:
+www.level99games.com/BattleCON
+Game Overview
+Game Overview
+Game Overview
+Game Overview
+
+
+===== СТРАНИЦА 3 =====
+
+4
+5
+Unique Abilities
+Each fighter possesses a Unique Ability (also called a “UA”) that gives 
+them access to powers no other fighter has. Some UAs are simple, while 
+others are complex. Learning and mastering both your own UA and your 
+opponent’s UA is the key to victory.
+Each fighter’s Unique Ability is rated according to its complexity. More complex 
+abilities have more specific interactions or use more special materials. Here’s 
+a quick guide:
+	
+○Novice - Simple abilities that are recommended for quick, casual games, 
+as well as for teaching others.
+	
+○Intermediate - Slightly more difficult abilities with the potential for 
+complex interactions.
+	
+○Advanced - Complex characters who have many moving parts. 
+Recommended for duels between two experienced players.
+Attack Pairs
+Fighters have two types of cards called Styles and Bases. Combining one 
+Style with one Base forms an attack pair, which has all the effects and stats 
+that are printed on both cards.
+Attack Pairs are Recycled after use, locking up both cards in the pair for two 
+complete beats (rounds) of combat. Be wary of what cards you have access 
+to and what your opponent can and can’t do during their turns. Use their 
+limitations to your advantage.
+Fighting Styles
+You can get a sense of how a fighter’s Styles and Unique Ability support 
+combat from their class, which is listed on their Unique Ability card:
+This attack “Soaring Shot” would have 1~5 Range, 2 Power, 3 Priority, 
+and 2 Guard. It also has all the special effects of both cards combined.
+All of the cards and other components that belong to a fighter are 
+collectively known as the fighter’s “kit.” These components are bound 
+to a specific fighter and cannot be mixed and matched among fighters.
+A fighter’s class and complexity have no bearing on their strength. 
+Novice characters can compete evenly with Advanced ones, and each 
+class is balanced to deal with others. It’s most important to find and 
+use a fighter that resonates with your personal play style.
+Overview
+Overview
+Overview
+Overview
+Great defense and offense. Aim to out-
+trade by resisting disruption and pouring 
+damage into the opponent consistently.
+Slugger
+Slugger
+Utilize spacing and positional 
+setups to control the board and put 
+opponents at a disadvantage.
+Tactician
+Tactician
+Draw power from technical abilities. Rely 
+heavily on activating these effects to 
+maintain and press advantages in combat.
+Mage
+Mage
+Attempt to stun opponents, dodge retaliation, 
+or muddle enemy abilities. Force the 
+opponent to play around your answers.
+Disruptor
+Disruptor
+Control the opponents and the pace of 
+combat by using consistent, well-rounded 
+attacks, often landing hits to inflict statuses.
+Brawler
+Brawler
+Use flexible abilities to craft attacks, 
+often stacking multiple buffs or 
+triggers to adapt to the situation.
+Tinkerer
+Tinkerer
+
+
+===== СТРАНИЦА 4 =====
+
+6
+7
+Triggered Effects
+The special effects of your attacks are not carried out all at once. These 
+effects are triggered by reaching certain moments during play. Then and only 
+then are they carried out.
+	
+►When a player has two or more triggers with the same timing, that 
+player performs the triggers in the order they choose.
+	
+○Reveal - Triggers when players flip over their Attack Pairs, but before 
+priority is tallied and the Active Player is decided.
+	
+○Start - Triggers after the Active Player is decided, but before players attack.
+	
+○Before - Triggers just before a fighter’s own attack.
+	
+○Hit - Triggers if the fighter’s attack hits the opponent, before damage.
+	
+○Damage - Triggers if the fighter’s attack deals 1 or more damage, after 
+damage is dealt.
+	
+○After - Triggers just after a fighter’s own attack, regardless of whether the 
+attack hit or missed.
+	
+○End - Triggers after all attacks are finished resolving.
+	
+○Recycle - Triggers just before players pick up the cards from their Discard 
+Piles and discard their Attack Pairs.
+In-Time Triggers
+Some triggers occur outside the normal order. These trigger in response to 
+the opponent’s actions, your actions, or to various conditions. 
+These In-Time Triggers are colored purple. They happen after all other 
+triggers associated with a timing are performed. For example, a trigger “When 
+you are hit...” happens after all Hit triggers are performed, but before damage 
+is applied. 
+In the extremely rare case where there are multiple In-Time triggers that need 
+to happen at the same time, perform all of the Active Player’s triggers first, in 
+any order that player wishes, then perform all the Reactive Player’s triggers, 
+in any order they wish.
+Conditionals
+Many triggers have conditions attached after the timing. Most are self-
+explanatory. Here are a few examples: 
+	
+○Before, Range 1: (must be at range 1 to the Opponent to use) 
+	
+○End, you were hit: (must have been hit during this beat to use) 
+	
+○Hit, 3+ held Frost: (must have 3 Frost Counters to use).
+Unless otherwise noted in the condition, only consider events that happened 
+during this beat and the components currently held by players. If you don’t 
+fulfill the conditions, you must skip the trigger entirely.
+Optional Triggers
+By default, triggered effects are mandatory, and must be used when they 
+come up. Some have the “Optional” keyword, which means that a player may 
+choose to perform them or not (and may move to the next timing even if 
+optional triggers were not performed).
+Recycle
+After cards are used in an Attack Pair, they go to your Discard Piles. Each 
+beat, you pick up your oldest Discard Pile. Be careful to manage your resources 
+so that you can respond to your opponent at every moment throughout the 
+duel!
+Eliminate the Opponent to win!
+Attacks will deal damage, which reduces the opponent’s life. Reduce the 
+opponent’s life to zero to eliminate them! In a standard duel, the first player 
+to eliminate the other wins. In multiplayer, all members of a team win once all 
+members of the opposing team are eliminated.
+Overview
+Overview
+Overview
+Overview
+
+
+===== СТРАНИЦА 5 =====
+
+8
+9
+Styles and Bases
+Attacks are formed by pairing any one Style and any one Base.
+Bases are fundamental tactics. Every fighter can throw a heavy punch, use 
+some kind of projectile, perform a quick backstep, or lunge forward. These 
+techniques are represented by the six standard Bases which all fighters share: 
+Grasp, Drive, Strike, Shot, Burst, and Dodge. Most fighters also bring at least one 
+Unique Base to their kit. 
+Styles encapsulate how a fighter attacks. Even if two fighters throw the same 
+heavy punch, their personal Styles alter the power, speed, and range at which 
+the attack hits. Most Styles are unique to the fighter who owns them, with the 
+exception of Switch, which all fighters share.
+Barbed Grasp
+	
+○Range: 1~2
+	
+○Power: 2
+	
+○Priority: 6
+	
+○Guard: 0
+Both Styles and Bases have the same stats and text, and their layouts mirror 
+one another. Line them up to create customized Attack Pairs. Your attack is 
+the sum of both cards’ matching stats, as well as the triggers and effects on 
+both cards.
+1.	 Name – The name of the card. Styles and Bases pair together to form the 
+name of the attack. For example, the ‘Stealthiest’ Style and the ‘Grasp’ 
+Base combine to form the ‘Stealthiest Grasp’ attack.
+2.	 Range – The Range of the attack determines where it hits. 
+a.	 Add minimum and maximum Range separately.  For example, Range 
+0~3 + Range 2~3 = Range 2~6.
+b.	 If a Range stat lists a single number, treat that single number as both 
+a minimum and maximum.  For example, Range 3 = Range 3~3. 
+Therefore, Range 3 + Range 0~1 = Range 3~4.
+3.	 Power – Power determines how much damage will be dealt if the attack 
+hits the opponent.
+4.	Priority – Priority determines whose attack executes first during a beat. 
+Higher Priority allows you to act quicker, potentially hitting and 
+stunning the opponent before they are able to hit you.
+5.	 Guard – Fighters may become stunned when they take damage. Guard 
+represents resistance to stun. If the damage a fighter takes during a 
+beat exceeds their Guard, they become stunned and cannot attack.
+6.	Effects – The triggered effects of both sides of the pair are performed 
+during specific parts of the Beat, as indicated by their colored timings. 
+More on this later.
+7.	 Nametag – If a card is exclusive to a particular fighter (most cards are), it 
+will have that fighter’s name here. Otherwise, the type of card will be 
+detailed here.
+8.	 Watermark – This tells you which game and which edition of that game 
+a particular card is from. BattleCON 4th Edition cards have a single ● 
+before the game’s 3-letter indicator.
+Example Attack Pairs
+1
+2
+3
+4
+5
+6
+7
+8
+7
+8
+Materials
+Materials
+Materials
+Materials
+
+
+===== СТРАНИЦА 6 =====
+
+10
+10
+11
+11
+Fracturing Drive
+	
+○Range: 1~2
+	
+○Power: 6
+	
+○Priority: 4
+	
+○Guard: 0
+Experienced Strike
+	
+○Range: 3~4
+	
+○Power: 6
+	
+○Priority: 4
+	
+○Guard: 6
+Example Attack Pairs (cont’d)
+Unique Ability Card
+Every fighter has a Unique Ability (UA), 
+and every UA changes the game in drastic 
+ways. These abilities provide new rules that 
+supersede any typical game rules. They often 
+come with new materials such as Tokens, 
+Markers, or Counters to keep track of their 
+varied states.
+The Unique Ability Card details a fighter’s 
+UA and any extra materials provided with it. 
+UA cards detail setup steps, which put these 
+materials into play before a duel begins.
+Any triggers on your Unique Ability are 
+applied during every beat of the game.
+Finisher Cards
+Each fighter has a double-sided Finisher 
+card that they can use during play. The 
+Finisher card looks like a Style, except that 
+it has a complete border around the edge. 
+A Finisher is not half of an Attack Pair–it 
+replaces the entire Attack Pair and is not 
+modified by a Style or Base.
+Finishers have two sides. During Setup each 
+player selects which Finisher they wish to 
+use and reveals them simultaneously. 
+Reference Cards
+Reference cards detail your fighter’s Styles and Bases, and are primarily 
+for the benefit of your opponent. BattleCON is an open-information game, 
+meaning that all players know which cards their opponent has at all times.
+The reference card makes it easy to track this by looking at the colors of Styles 
+and Bases in the opponent’s Discard Piles.
+The position of all game components is public information and these 
+components can be viewed by any player at any time (except while an Attack 
+Pair is face-down during the Set Phase).
+Fighter Materials
+Fighter Materials
+Fighter Materials
+Fighter Materials
+
+
+===== СТРАНИЦА 7 =====
+
+12
+12
+13
+13
+Switch Style Card
+The Switch Style is available to all fighters. 
+When used in an Attack Pair, it activates a 
+Finisher or generates extra Force, a resource 
+used during ante to improve your stats.
+This Style cycles through your discard just like 
+any other Style.
+Overloads
+All fighters are able to use the three Overloads 
+by trashing 2 Force. These Overloads are always 
+available to a fighter, and each Overload can 
+only be used once per beat by each fighter.
+Use the Overload Tiles to track when you’ve 
+claimed these bonuses for a beat. Force that 
+you trash to use Overloads is removed from the 
+game, and is never returned.
+Force
+Force Counters are spent to activate 
+Overloads. Force Counters also form the clock 
+for a duel. Once the pile is empty, the game will 
+end after the next beat. Whenever a fighter gains 
+Force for any reason, it comes out of this shared 
+pool.
+Life
+Life Counters are useful for tracking your life. 
+Start with Life counters equal to your starting 
+life (typically 20). Remove them from the game 
+when you take damage.
+Active/Reactive Cards
+These Status cards can be used to track who is 
+the Active Player and Reactive Player. Using 
+them is optional, but they can be especially handy 
+in multiplayer games.
+Super/Ultra Reference
+These cards are used in multiplayer games, and 
+give extra bonuses to the lone player in a 2v1 or 
+3v1 duel.
+Revenge Reference
+This card details bonuses that a surviving player 
+gains when their teammate is defeated. It is used 
+only in multiplayer games.
+Standups
+Each fighter has a Standup which tracks their 
+position on the board. Two standups can never exist 
+in the same space on the board.
+Fighter Materials (Force)
+Fighter Materials (Force)
+Other Materials
+Other Materials
+
+
+===== СТРАНИЦА 8 =====
+
+14
+14
+15
+15
+Fighter-Specific Components
+These components are specific to fighters, and come with them based on their 
+Unique Abilities. Terms used to describe the movement of these pieces are 
+included here for reference.
+Tokens & Counters
+Tokens can be used during the Ante Phase (see page 18). 
+Players have a Supply Area and a Depletion Area. When a 
+Token is used or spent, it moves into Depletion. When a Token 
+is regained, it moves to the Supply. Tokens are always circular.
+Counters have no innate effects. They exist only to keep 
+track of resources, and are gained and spent through 
+other game effects. Counters are pentagonal.
+If not otherwise stated, Tokens and Counters begin in 
+a fighter’s Supply.
+	
+○Regain - Move the specified Token/Counter from 
+Depletion to your Supply. (When Force is 
+gained, it always comes from the shared pool).
+	
+○Spend - Move the Token/Counter to your Depletion. Do not 
+gain any innate effect on a Token. Usually spending 
+happens in conjunction with some other effect on a card.
+	
+○Deplete - Move the Token/Counter to your Depletion. Do not gain any 
+innate effect on a Token.
+	
+○Use - Gain the innate effect printed on the Token, then move it to your 
+Depletion.
+	
+○Trash - Return the specified Token/Counter from wherever it is to the box, 
+removing it from the game.
+Markers
+Markers may be on the board, like standups, but do not 
+usually interfere with a fighter’s movement. A fighter’s 
+UA will explain how to set up any Markers they possess. 
+If not otherwise stated, Markers begin a duel in a fighter’s 
+Supply. Typically, multiple Markers with the same name 
+cannot occupy the same space.
+	
+○Place - Put the specified Marker from your supply or 
+from the board (your choice) onto the specified 
+space. If no restriction is specified, place anywhere!
+	
+○Shift - Move the specified Marker a number of spaces 
+indicated in either direction.
+	
+○Withdraw - Return the specified Marker from the 
+board to your supply.
+	
+○Trash - Return the specified Marker wherever it is to the box (removing it 
+from the game).
+Special Cards
+Some fighters possess special cards with 2 states, active 
+and inactive. While active, they apply their effects to all of a 
+fighter’s attacks. Any stats on these cards are also applied to 
+the fighter’s attacks while they are active.
+	
+○
+Activate - Turn a card face-up, making it active.
+	
+○
+Deactivate - Turn a card face-down, making it inactive.
+	
+○
+Active - A face-up card is active.
+	
+○
+Inactive - A face-down card is inactive.
+	
+○
+Trash - Return a card to the box, removing it from the 
+game.
+Forms
+Forms are Special Cards that describe a persistent 
+state, stance, or mode for a fighter. Forms are exclusive–
+activating a Form causes any other Form to become 
+deactivated. Many Forms are printed double-sided to show 
+that activating one side automatically deactivates the other.
+	
+○Become - Turn the Form face-up, activating it. Turn any 
+other Forms on this fighter face-down, deactivating them. You 
+cannot ‘become’ a form if you are already in that form.
+Status Effect Cards
+Most bonuses to fighters last only for the current beat. A 
+few that persist to future beats are represented by cards. The 
+card can be put into play as a reminder that you 
+have a particular status.
+Each Status Effect Card has a symbol on it, to 
+help you remember which Style, Base, or Finisher 
+generated the effect.
+These cards are reminders only, and have no 
+inherent effects beyond those printed on the 
+cards that generated them.
+Unique Ability Materials
+Unique Ability Materials
+Unique Ability Materials
+Unique Ability Materials
+
+
+===== СТРАНИЦА 9 =====
+
+16
+16
+17
+17
+2. Board Setup
+Place standups on the third and fifth spaces respectively, so that each fighter 
+is on its owner’s left hand side of the board. 
+	
+○Use the Life Counters to track life, starting with 20 life per fighter. 
+	
+○Give a random player the Active Player Marker. 
+	
+○Place the 45 Force Counters in a pile to the side. Then, each player takes 
+two of these from that pile. 
+	
+○Give each player 3 different Overload Tiles: “Power Up!’, “Defense Up!,” 
+and “Speed Up!”
+4. Finishers & Initial Discards
+Each player chooses two Bases and two Styles*. These will form two Attack 
+Pairs that should be placed in Discard Piles 1 and 2 respectively. These cards 
+will not be available at the start of the duel but will become available soon 
+(the Attack Pair in Discard Pile 2 will be the one you retrieve first). Make sure 
+your Discard Piles are separated so you can tell them apart.
+*When learning the game or trying a new fighter, the cards in your hand marked 
+‘1’ and ‘2’ form the starting Discard Piles. These are optional, but are intended to 
+help you to set up the game and jump into a new fighter quickly.
+3. Fighter Setup
+Perform any Setup steps listed on your fighter’s Unique Ability card, 
+simultaneously and secretly. Along with these Setup steps, choose and reveal 
+one side of your Finisher. Set it to the side of the board with the chosen side 
+face up. 
+1. Fighter Selection
+Each player chooses one fighter. They take all of that fighter’s Styles, Unique 
+Base, and a Switch Style card to form a starting hand. Each player should 
+also find any tokens, counters, markers, or extra cards that their fighter uses 
+and place them into play as specified by their UAs. Both players also take a 
+complete set of Bases: Strike, Drive, Dodge, Grasp, Burst, and Shot.
+Each fighter has a Reference Card that details their Styles and Bases. Trade 
+Reference Cards with your opponent so you have an idea of what their 
+capabilities are.
+Fighters’ complete kits are listed in the Character & Story Guide. The name of 
+the fighter a card belongs to is listed in the bottom left of the card.
+Game Setup
+Game Setup
+Game Setup
+Game Setup
+Some Tokens and Counters begin in
+the supply. Others begin in 
+depletion according to your 
+fighter’s setup instructions.
+45 Force Counters form 
+a pool and serve as 
+the game’s timer.
+Some fighters come with special cards of a 
+particular type. These stay on their side of the 
+board, either face-up (active) or face-down (inactive)
+as indicated by the fighter’s setup instructions.
+Trade reference cards with your 
+opponent so you each know 
+what the other is capable of.
+Your finisher should remain in 
+sight but out of the play area.
+Usually, anything that doesn’t 
+start in your discard piles 
+starts in your hand.
+Most fighters begin 
+a duel with 20 life.
+Keep your fighter’s UA 
+card handy to reference 
+your custom setup and 
+special abilities.
+Keep your active statuses 
+and forms together 
+with your UA card.
+Status cards are may come into play 
+during the duel. Keep them with your 
+reference cards until they’re needed.
+Boards may look different 
+from game to game, but their 
+basic layout is the same.
+
+
+===== СТРАНИЦА 10 =====
+
+18
+18
+19
+19
+Ante Phase
+A fighter’s UA will often provide them with additional Ante Actions, Tokens, 
+or other effects which can be used during ante. Every fighter also has access 
+to the three Overload Tiles, which can be used by trashing 2 Force each. Each 
+fighter may only use each Overload Tile once per Beat.
+Antes are always optional. Antes are not triggers.
+Starting with the Active Player, players take turns anteing or passing. Even after 
+a player passes, they may still ante later on in the turn, as long as the Ante 
+Phase has not ended yet. 
+Once both players have consecutively passed on anteing (that is, two passes 
+in a row), move on to the Reveal Phase.
+	
+►A Limited Ante can be used only once during the beat. Other kinds 
+of antes can be used as many times as the owner wants.
+	
+►Some fighters provide their opponents with ante options. These 
+[Opponent] antes can never be used by the fighter themselves. 
+Instead, the opponent may use them during the ante step.
+Both players set their 
+attack pairs face-down.
+Set Phase
+Each player chooses one Style and one Base from their hand and places 
+those cards face down. A legal Attack Pair always has one red-backed and 
+one blue-backed card. 
+Any Style can pair with any Base, regardless of colors or symbols.
+Once both players have Attack Pairs placed down in front of them, move on 
+to the Ante Phase.
+Play Sequence
+Play Sequence
+Play Sequence (Set+Ante)
+Play Sequence (Set+Ante)
+Before
+Check Range
+Hit
+Damage
+After
+Set
+Players will choose one Style and one Base to 
+set face-down, forming an Attack Pair.
+Ante
+Players will take turns using any antes provided by their 
+Unique Abilities, Overload Tokens, or their opponent. 
+This continues until both players pass in succession.
+Reveal
+Compare Priorities, and determine 
+who is the Active Player!
+Clash
+If there’s a tie for Priority, 
+a Clash occurs!
+Start of Beat
+The Active Player activates all Start of Beat triggered effects 
+they possess, then the Reactive Player does the same.
+Active Player Attack
+The Active Player performs 
+their attack.
+Reactive Player Attack
+The Reactive Player takes their 
+turn, if they are not stunned.
+End of Beat
+The Active Player activates all End of Beat triggered effects 
+they possess, then the Reactive Player does the same.
+Recycle
+Players return older attacks to their hands and place the 
+Attack Pairs played this Beat into their Discards. Take Force.
+
+
+===== СТРАНИЦА 11 =====
+
+20
+20
+21
+21
+Reveal Step
+Both players simultaneously flip their face-down Attack Pairs. Any Reveal 
+triggers are performed at this time, with the Active Player resolving all effects, 
+then the Reactive Player doing the same.
+After performing all Reveal triggers, check the Priorities of both attacks 
+(considering any modifications from tokens, Styles, and passive special abilities). 
+The player with the higher Priority becomes the Active Player.
+Priority Tie? - Clash!
+A Clash occurs if both players have the same Priority when it is time to 
+determine Active Player. In a Clash, both players play a new Base face-down 
+from their hands, without picking-up previously revealed Bases. 
+They simultaneously show the new Base and put it on top of the old one, 
+hiding the original Base and forming a new attack. In the rare case that there 
+are Reveal triggers that were not executed previously or which are on the new 
+Base, perform those now.
+Check to see if another Clash has occurred. If it has, clash again. Otherwise, pick 
+up all the other revealed Bases, assign Active Player to the fighter with higher 
+Priority, then continue as normal. Only the Base that was actually executed 
+during this beat will cycle into your Discard Pile.
+If either player runs out of Bases, skip directly to the Recycle Phase.
+Tiebreakers
+Some attacks have a triangle (▲) after their Priority Stat. This is called a 
+tiebreaker. When such an attack is tied in Priority with another attack, it wins 
+the tie instead of causing a Clash (as explained below). If both attacks have 
+tiebreakers, then the current Active Player wins the tie and retains this status.
+	
+►If either Attack Pair has a tiebreaker (▲), then a clash cannot occur 
+during this beat, regardless of any other game effect.
+Finishers
+The Switch Style can cause your Finisher to replace your attack pair during 
+Reveal. Just follow the steps on the Switch Style. This will cause the Switch 
+Style to be removed from the game, so only one Finisher can be used per 
+fighter per duel!
+Start of Beat
+In this phase, the Active Player performs all of their Start triggered effects. 
+Then the Reactive Player performs all of their Start triggered effects.
+	
+►Even Stunned fighters must perform their Start triggers.
+	
+►When a single player has 2 or more triggers with the same timing, 
+that player performs those triggers in any order they choose. This 
+is true for all timings and all triggers.
+Both players 
+have 5 Priority 
+triggering a Clash!
+Each selects a 
+new Base from 
+those remaining 
+in hand.
+Priority is 
+re-calculated, 
+leading to 
+a winner!
+≥
+Play Sequence (Reveal + Start)
+Play Sequence (Reveal + Start)
+Play Sequence (Reveal + Start)
+Play Sequence (Reveal + Start)
+
+
+===== СТРАНИЦА 12 =====
+
+22
+22
+23
+23
+Active Player Attack
+If the Active Player is not stunned, that fighter performs their attack now. 
+Once an attack starts, it must be carried out completely. Any effect 
+which causes damage to the attacker or stuns them does not stop the 
+attack mid-way through.
+Reactive Player Attack
+If the Reactive Player is not stunned, that fighter performs their attack 
+now, just like the Active Player.
+The Active Player can still be stunned. Usually it doesn’t matter, since 
+they’ve already attacked, but it can be important for some effects.
+A player carries out their Attack by performing these steps:
+	
+○Perform all Before triggered effects.
+	
+○Check if the opponent is within Range. Range is counted in spaces, with the 
+space occupied by the player being space 0. Once you hit a fighter, any 
+movement inflicted before dealing damage does not negate the hit.
+	
+○If your attack hit, perform any and all Hit triggered effects.
+	
+○If the opponent was hit by your attack, they take damage equal to 
+the Power of the attack. This damage is reduced by any Armor the 
+opponent possesses, then they lose that Armor.
+	
+○If 1 or more damage was dealt, Damage triggered effects are performed. 
+If any damage was done, the opponent may become stunned (see left).
+	
+○Perform all After triggered effects, regardless of whether or not the attack 
+hit or did damage.
+	
+►If a player’s life is reduced to zero or fewer points at any time, 
+the duel immediately ends, with the remaining player declared the 
+winner.
+1
+2
+3
+5
+4
+Guard & Stun
+When a Player takes damage exceeding their Guard, they become 
+stunned. When a player is stunned, they do not attack during the Active 
+or Reactive Attack steps! It’s important to dodge incoming attacks, have a 
+high Guard, or have a high Priority in order to get your attacks through.
+Guard prevents you from becoming stunned due to taking damage. If 
+the total damage you have taken is less than or equal to your Guard, you 
+resist the Stun, and can still carry out your attack.
+If Feylana had 3 or more Guard, she would not be stunned by this attack! 
+Since she is stunned, however, she won’t be about to attack during the 
+Reactive Player Attack Step. Ante for Defense Up next time, Feylana!
+Play Sequence (Attacking)
+Play Sequence (Attacking)
+Play Sequence (Attacking)
+Play Sequence (Attacking)
+Before
+Check Range
+Hit
+Damage
+After
+Attack
+Perform these steps in order to 
+execute a fighter’s attack.
+Anya’s range is 2~4, enough to hit Vekyl, who is at 
+Range 4 here. If Vekyl were are range 1, he would not 
+be hit. She cannot choose not to hit him with this attack.
+
+
+===== СТРАНИЦА 13 =====
+
+24
+24
+25
+25
+End of Beat
+In this phase, the Active Player performs all of their End triggers. Then the 
+Reactive Player performs all of their End triggers.
+	
+►Even Stunned fighters must perform their End triggers.
+Recycle Phase
+The Active Player performs all of their Recycle triggers. The Reactive Player 
+then performs all of their Recycle triggers. Even stunned fighters must perform 
+their Recycle triggers.
+Then, both players perform these steps simultaneously:
+1.	 Pick up their second (outermost) Discard Pile and add it to their hand. 
+2.	 Move their first (innermost) Discard Pile into their second Discard Pile. 
+3.	 Move the Attack Pair they just played face-up into their first Discard Pile. 
+4.	Each player takes 1 Force Counter from the Force Counter Pile. A player 
+with 7 or fewer life takes an additional Force Counter. If you have more 
+than 10 Force after this, trash any excess.
+	
+►Recycling Finishers - On the Beat when a player uses a Finisher, 
+they remove the Finisher from the game, and do not recycle their 
+Discard Piles as normal (skipping steps 1-3 above).
+Time Over
+At the end of the Recycle Phase, if the Force Counter Pile is empty, then 
+the duel has timed out. Use Counters from the box to give each fighter the 
+full amount of Force they are entitled to if there is not enough left in the pool. 
+One final beat is played, and if there is no winner after this final Beat, the player 
+with the highest remaining Life total wins. 
+If both players have the same Life total at the end of the final Beat, the Reactive 
+Player is declared the winner.
+Defeat
+When a fighter’s life is reduced to 0, that fighter is immediately defeated. 
+Defeated fighters are removed entirely from the game, and all of their effects 
+stop working immediately. If all of your opponents are defeated, you win!
+Next Beat
+If no player has won the game by defeating all opponents, continue on to the 
+next Beat by returning to the Set Phase!
+Play Sequence (End + Recycle)
+Play Sequence (End + Recycle)
+Play Sequence (End + Recycle)
+Play Sequence (End + Recycle)
+Current Attack
+Discard Pile 1
+Discard Pile 2
+Player’s Hand
+
+
+===== СТРАНИЦА 14 =====
+
+26
+26
+27
+27
+Movement
+Many effects cause fighters’ standups to move. The only way to move is by 
+these effects.
+Movement effects all follow a few rules:
+	
+○Players cannot move past the edges of the arena.
+	
+○Movement effects are mandatory. If an effect says ‘advance 1 or 2 spaces’, 
+then the player must move either 1 or 2 spaces forwards. You cannot 
+choose to remain where you are. If an effect says ‘Move 3 spaces’, you 
+must move exactly 3 spaces (if you cannot, then you don’t move).
+	
+○When moving, move into and out of each space on the way to your 
+destination, one at a time. This is true of all types of movement, except 
+Teleport (page 29).
+	
+○When moving, hop over opponents and do not count the spaces they 
+occupy against your movement. You can never move into the same 
+space as an opponent’s standup.
+	
+○If a legal movement is possible then it must be taken. If no possible 
+legal movement can be made, then the movement is ignored entirely.
+	◦Example: an effect says “Push or Pull 1” and the opponent is against 
+a wall, then you would be forced to choose the Pull 1 effect, since 
+the push 1 effect cannot be carried out.
+	◦Example: an effect says “Advance 3” but there are only 2 spaces open 
+in front of you. The instructed movement cannot be legally made, 
+and would fail to be carried out.
+	
+○Effects that move in steps (ex: Pull 1 per Counter spent) add all these 
+movements together, then apply one singular movement. 
+	◦In that example, spending 3 Counters would create a “Pull 3” effect, 
+not three separate “Pull 1” effects.
+	
+►Any effect which checks to see if a player “has moved” or “cannot 
+move” considers all movement effects–both moving under your 
+own power and being moved by opponents.
+Advance
+Advancing brings you closer to the opponent. If you would advance further 
+than the distance between you and the opponent, you keep moving in the 
+same direction. Thus, longer advances can be used to create distance.
+Retreat
+Retreating moves you away from the opponent.
+Movement
+Movement
+Movement
+Movement
+Cannot vs. Do
+Any effect that says “cannot” takes precedence over other effects. For 
+example, an effect that says “you cannot Advance or Retreat” will prevent any 
+effect that instructs you to advance or retreat. An effect that says “you cannot 
+be stunned” will take precedence over an effect that says “you are stunned.”
+Anya can Advance 1 or 2. If she moves 
+2, she will move past the opponent.
+Feylana can Advance 1 or 2. Either one 
+will move her past the opponent.
+Anya can Retreat 1 or 2 spaces.
+Feylana can Retreat 1 or 2 spaces, but she 
+only has 1 space open to Retreat. Thus 
+she has to take the option to Retreat 1.
+
+
+===== СТРАНИЦА 15 =====
+
+28
+28
+29
+29
+Pull
+Pulling brings the Opponent closer to you. Like Advance, this movement 
+may carry the Opponent past you, and can be used to create distance.
+Close
+Close is shorthand for “Advance as far as possible, up to the amount 
+specified, but not past the Opponent.” Any effect that interacts with Advance 
+interacts similarly with Close.
+Push
+Pushing moves the Opponent away from you.
+Teleport
+Teleport is shorthand for “Advance or Retreat directly to the space 
+specified, without entering or leaving any of the spaces in between.” Any 
+effect that interacts with Advance or Retreat interacts with Teleporting in that 
+direction. You can never teleport into a space occupied by another fighter.
+Movement
+Movement
+Movement
+Movement
+Kora pulls the opponent 1 space.
+Kora pulls the opponent 1 space. This 
+causes them to move past her.
+Anya has the option to Push or Pull with her 
+Grasp. Since there is no available space to Pull, 
+she is forced to choose the Push instead.
+John pushes 0–3, as far as possible. In 
+this case, he has to push Vekyl to the back 
+wall. He isn’t allowed to push less.
+Vekyl’s Teleport lets him move straight to any 
+one of his Wisps. Notice that he does not enter 
+the spaces between his start and end space.
+Rin’s Close 2 will advance her up to 2 spaces. 
+She must take the longest possible movement, 
+but cannot move past the opponent.
+At a closer range, Rin will not 
+move the whole distance.
+
+
+===== СТРАНИЦА 16 =====
+
+30
+30
+31
+31
+Other Effects
+These pages detail how to perform most other triggers in BattleCON. You 
+don’t need to read all of these to get started. Just reference them as they 
+come up in your games. 
+	
+►Terms that describe the movements of components (pick up, deplete, 
+activate, use, etc) are detailed on page 14.
+	
+►Triggers and their conditions are detailed on page 6.
+	
+►Standup Movement is detailed on page 26.
+	
+○Armor X - Armor decreases the damage taken from attacks. Armor gained from 
+different effects adds together. 
+	◦
+Once Armor reduces damage, it is consumed. If you are hit multiple times 
+(for example, in multiplayer), Armor will only prevent the first X damage 
+dealt to you.
+	
+○Avoid Attacks - Prevent all hits (or certain kinds of hits) from being landed on 
+you. When the opponent checks their range during the “check range” step of 
+attacking, the attack does not hit regardless of your actual position on the 
+board. Avoid takes precedence over conditional and special hit effects as well.
+	
+○Become Active Player - You become the Active Player, and take the Active Player 
+status card. The opponent becomes the Reactive Player.
+	◦
+In multiplayer, other players then become Reactive Players in order of their 
+Priority.
+	
+○Conditional Triggers – You can only choose to perform triggers with conditions 
+that you fulfill. If you can no longer choose to perform triggers due to all 
+your remaining triggers having unfulfilled conditions, move to the next timing. 
+Likewise, if a previously unfulfilled condition becomes fulfilled, you must carry 
+out that trigger before moving on to the next timing.
+	
+○Chip X – The target player (the Opponent by default, if no target is specified) 
+loses the amount of life specified. This cannot reduce a player’s life to zero. If 
+it would, they will remain at 1 life instead. Chip does not count as “Damage”, 
+never stuns fighters, and is not reduced by Armor.
+	
+○Discard Styles/Bases - Some effects make you discard more Styles and Bases 
+from your hand. These go to the Discard Pile specified and cycle normally. If 
+no Discard Pile is specified, they are discarded with your current Attack Pair.
+	◦
+During the Set Step of a beat, if a player somehow has no Styles or no Bases 
+in their hand, Discard Piles recycle again (without performing ‘Recycle’ 
+triggers), leaving one pile temporarily empty.
+	
+○Eliminate a Fighter - The fighter is defeated and removed from the game.
+	
+○Fixed Stat (*) - Some cards have an asterisk after one or more of their stat values. 
+In these cases, that stat is defined entirely by that side of the Attack Pair. Ignore 
+any modifiers to the stat – even those on the other side of the Attack Pair.
+	
+○Ignore Armor - When a fighter is hit by one of these attacks, their Armor is 
+considered ‘0’, regardless of its actual value. The Armor is not “used up” when 
+hit by such an attack (this is relevant in multiplayer).
+	
+○Ignore Guard - When a fighter is hit by one of these attacks, their Guard is 
+considered ‘0’, regardless of its actual value. 
+	
+○N/A Range or Power - Attacks with a Range of N/A do not hit the opponent. 
+Attacks with a Power of N/A do not deal damage when they hit (regardless of 
+any other bonuses to power that may be present). 
+	◦
+Special effects on these cards can often change your range, overwriting the 
+N/A with a different value.
+	◦
+If a game effect needs to check the numeric value of your Range or Power, 
+the “N/A” can be read as “0”. The total Range or Power also becomes “0”.
+	
+○Pick Up Styles/Bases - Picked up Styles and Bases move from wherever they 
+are into your hand.
+	
+○Perform a Trigger - Do all the steps on the trigger, just as if it had been activated 
+normally.
+	
+○Regain Life - These effects cause the targeted fighters to regain life as specified. 
+Your total life can never exceed your starting life.
+	
+○Spend Life/Counters - You may spend the specified resource for the given effect. 
+You cannot spend your last point of life, and you cannot spend life or counters 
+that you do not possess in your supply.
+	
+○Stat becomes X - This alters your entire stat to the specified value, ignoring all 
+active bonuses, penalties, and printed values to Range, Power, Priority, or 
+Guard.
+	
+○Stun Immunity (
+) - You cannot be stunned by any effect or damage. When 
+a card has Stun Immunity, a Shield replaces that card’s Guard rating,  as a 
+reminder of this effect. This shield icon (
+) can be read as “0” if any game 
+effect cares about the numeric value of a fighter’s Guard.
+	
+○Tiebreaker (▲) - If any fighter has a tiebreaker modifying their Priority, then a 
+clash will not occur. Instead, the fighter or team with the tiebreaker will win 
+Priority. If both teams/fighters have a tiebreaker, then Active Player remains 
+with whoever held it during the previous beat.
+	
+○Vulnerable - Opponents ignore your Armor and Guard, meaning that damage 
+cannot be reduced and any damage will stun you (unless you are Stun 
+Immune).
+	
+○You/Opponent is Stunned - The specified fighter becomes stunned. This ignores 
+any Armor and Guard the opponent may have, but will not bypass Stun 
+Immunity. A fighter can only be stunned once, so this has no further effect 
+on a stunned foe.
+	
+○You cannot take more than X damage at a time - This is applied when a fighter 
+is taking damage, after Armor has already reduced the incoming damage. 
+Any incoming damage in excess of X is prevented. Damage that is prevented 
+does not count towards stunning a fighter.
+	
+○Your life cannot fall below 1 - No matter how much damage the fighter takes, 
+any damage that would put them below 1 life is prevented. Damage that is 
+prevented does not count towards stunning a fighter.
+Other Effects & Keywords
+Other Effects & Keywords
+Other Effects & Keywords
+Other Effects & Keywords
+
+
+===== СТРАНИЦА 17 =====
+
+32
+32
+33
+33
+Multiplayer Rules Summary
+Here’s a quick summary of all the team rules. These are explained fully in 
+the following pages, but it can be useful to have this reference available when 
+playing the game.
+Multiplayer Rules
+The multiplayer rules are recommended for advanced players who are 
+already familiar with BattleCON. With these rules, 3 or 4 players can play 
+BattleCON together all at once! Advanced players can also use these rules to 
+operate both fighters and participate in highly tactical single-player battles.
+You may need to combine multiple BattleCON games or use generic tokens 
+to have enough Force and Life tokens to support additional players.
+Team Movement
+Jump over both allies and enemies when moving. No 
+two standups can ever occupy the same space.
+Advance can be either direction as long as you are moving 
+towards an opponent. Retreat can be either direction, as 
+long as you are moving further from  an opponent.
+Teams Share Force
+Each team member takes Force individually during Recycle, 
+but the pool of Force is shared among the entire team.
+Each fighter can use each Overload Tile separately.
+Determining Priority
+Team members decide among themselves their action order 
+when tied. There are never Clashes in multiplayer.
+If a clash would occur and no player has a tiebreak, the 
+team with the Active Player Status gains a tiebreak.
+Targeting Attacks
+You hit the nearest opponent within Range on either side.
+Targeting Triggers
+“The Opponent” is the nearest opponent, OR the one you 
+just Hit when performing Hit and Damage Triggers.
+[Opponent] antes can be used by any fighter player who sees you as 
+“the Opponent” (that is, if you are the nearest opponent to them).
+Defeat in Multiplayer
+Your remaining teammates share a copy of the Revenge Reference 
+Card. It is possible to have multiple copies of these effects in play.
+All of the fighter’s components are removed from play immediately.
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+
+
+===== СТРАНИЦА 18 =====
+
+34
+34
+35
+35
+Team Reveal + Priority
+Clashes cannot occur in multiplayer games. 
+During the Reveal Step, the Active Player Status goes to the team with the 
+single highest-priority fighter during reveal, and the remaining player order 
+is assigned by descending priority. 
+In the case of any ties in priority, where neither side has a tiebreaker, the team 
+with the Active Player Status breaks that tie in their favor. If members of the 
+same team are tied for priority, they may decide among themselves which 
+order to act.
+Starting with the Active Player, and continuing in Priority Order, each player 
+carries out their attacks individually, just like in a standard game of BattleCON.
+Targeting Attacks
+Attacks can hit the nearest opponent within the attack’s range in either direction. 
+After this, they deal damage and activate their effects as normal. You must 
+choose and hit an opponent in range if possible.
+In Multiplayer, it is possible for players to be hit multiple times. Guard is 
+applied against the total damage taken during a beat. So even if the first hit 
+doesn’t stun the opponent, successive attacks can more easily inflict stun and 
+penetrate defenses.
+Just as a reminder, When triggers are only performed once. Whenever triggers 
+can be performed multiple times.
+Team Setup
+Players select their fighters as usual in a team game. If one team is 
+disadvantaged (as in a 2v1 or 3v1 battle), they can use a Super or Ultra fighter 
+to balance the odds (explained later in this guide, page 37).
+Team play uses a 9-space board (found on the reverse of the 2-player game 
+board). One fighter must begin the game on the team’s starting space, and 
+other team members start in the spaces behind this fighter, arranged as they 
+wish. The team that randomly begins with the Active Player status should 
+place first.
+The Force Pool starts with 20 additional Force for each character in the game 
+(65 in a 2v1 game, and 85 in a 2v2 or 3v1 game).
+Team Movement
+Fighters skip over both allies and enemies when moving. Because of this, a 
+single movement effect can skip multiple spaces.
+Team Ante
+Ante passes between teams.  On your team’s Ante, any one character may 
+Ante.  Afterward, Ante passes to the other team.  The Ante phase ends when 
+each team passes in succession. Teammates share a single Force pool. Each 
+member of the team may use each Overload Tile separately.
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+Rin’s Advance can jump over multiple 
+fighters as necessary when moving.
+It doesn’t matter if the fighters she 
+jumps over are allies or enemies.
+Cionaodh’s Tricky Burst hits range 3~5. 
+This means he hits Kai (range 3), but not 
+Dajiin (range 4) or Wendy (range 2).
+Dajiin’s Wishful Grasp hits at range 2~4. He can hit 
+either Kora (range 2 on the left) or Vekyl (range 3 
+on the right), but not Anya (range 1 on the right)
+
+
+===== СТРАНИЦА 19 =====
+
+36
+36
+37
+37
+Who is “The Opponent”?
+Cards in BattleCON use “the Opponent” to refer to the player who can 
+be targeted by their effects. In multiplayer, this situation is a little different, 
+since there are multiple opponents. In this case, “the Opponent” refers to the 
+enemy fighter that fulfills specific conditions:
+The Opponent is the nearest enemy fighter on either side of your standup. 
+If all enemies are on the same side, this is fairly simple. If you have enemies on 
+both sides, you get to choose between the closest one on each side. As usual, 
+you must always choose a legal target for the effect if one exists.
+	
+►Hit and Damage triggered effects work differently. For these effects, 
+the Opponent is always the fighter you just hit, regardless of their 
+range.
+	
+►For effects triggered by being hit or avoiding certain hits, the 
+Opponent is the player attempting to hit you.
+For fighters who provide ante actions to the Opponent, these antes are available 
+to any fighter who sees you as “the Opponent”. (That is, any enemy fighter to 
+whom you are the closest enemy fighter in one direction.) The enemy team may 
+only use such an Ante once per beat, no matter which enemy fighter used it.
+Team Force
+Each member of the team takes Force separately (1 normally, 2 if at 7 life or 
+below), and adds it to the team’s total. Defeated team members generate 2 
+extra Force each turn (as detailed on the Revenge Reference card).
+A team’s total Force cannot exceed 20.
+Defeat in Multiplayer
+When a fighter is eliminated, all of their game 
+components (standups, markers, status effects, tokens, 
+etc) are removed from play, along with all of their cards. 
+Put the Revenge Reference Card into play to remind 
+your surviving team members of the bonuses they 
+get. In a 3v1 game, it is possible to have 2 copies of the 
+Revenge Reference Card (along with all their cumulative 
+bonuses).
+2-vs-1: Super Fighters
+Super fighters are more powerful fighters capable of taking 
+on two opponents at once. The Super Fighter Reference card 
+will explain how to set up your fighter on one side, and what 
+bonuses they receive during the battle.
+3-vs-1: Ultra Fighters
+Ultra fighters are extremely powerful fighters capable of taking on three 
+opponents at once. The Ultra Fighter Reference card will explain how to set 
+up your fighter on one side, and what bonuses they receive during the battle.
+Kora can pick either Rin or Vekyl as 
+“the opponent” for her Pull effect.
+Rin is the closest enemy fighter, so Kora can only 
+target Rin as “the opponent” for her Pull effect.
+Multiplayer
+Multiplayer
+Multiplayer
+Multiplayer
+
+
+===== СТРАНИЦА 20 =====
+
+38
+38
+39
+39
+Organized Play
+You can play BattleCON at your local game store 
+or community venue to earn points and score 
+awesome promo cards! Visit www.level99games.
+com/organized-play to learn more!
+Online Play
+You can now play BattleCON Online! Visit 
+www.battleconnection.com to learn more about 
+the online game and register your account! 
+Participate in solo advantures, battle against 
+masters from around the world, and dive into 
+the deep lore of the world of Indines!
+Beat Summary. . . . . . . . . . . . . . . . . . 18
+Multiplayer Summary. . . . . . . . . . . 33
+* (Fixed Range). . . . . . . . . . . . . . . . . . 30
+▲ (Tiebreaker). . . . . . . . . . . . . . . . . . . 21
+Activate (card). . . . . . . . . . . . . . . . . . . . 15
+Active (card). . . . . . . . . . . . . . . . . . . . . . 15
+Active Player. . . . . . . . . . . . . . . . . . . . 20
+Active Player Attack. . . . . . . . . . . . . . 22
+Advance. . . . . . . . . . . . . . . . . . . . . . . . . 27
+After. . . . . . . . . . . . . . . . . . . . . . . . . . 6, 23
+Ante Phase. . . . . . . . . . . . . . . . . . . . . . . 19
+Armor. . . . . . . . . . . . . . . . . . . . . . . 23, 30
+Attack Pair. . . . . . . . . . . . . . . . . . . . . . . . 8
+Avoid. . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Base. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Become (form). . . . . . . . . . . . . . . . . . . 15
+Become (stat). . . . . . . . . . . . . . . . . . . . 31
+Before. . . . . . . . . . . . . . . . . . . . . . . . 6, 23
+Board. . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Cannot Move . . . . . . . . . . . . . . . . . . . . 26
+Check Range. . . . . . . . . . . . . . . . . . . . . 23
+Chip X. . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Clash. . . . . . . . . . . . . . . . . . . . . . . . 20, 35
+Close. . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Conditionals. . . . . . . . . . . . . . . . . . . . . . 6
+Counter. . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Damage. . . . . . . . . . . . . . . . . . . . . . 6, 23
+Deactivate (card). . . . . . . . . . . . . . . . . 15
+Defeat. . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Deplete (token/counter). . . . . . . . . . 14
+Depletion (area). . . . . . . . . . . . . . . . . . 17
+Discard (Style/Base). . . . . . . . . . . . . 30
+Discard Pile. . . . . . . . . . . . . . . . . . . . . . 17
+End. . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 18
+Fighter Selection. . . . . . . . . . . . . . . . . 16
+Finisher. . . . . . . . . . . . . . . . . . . . . . . . 11, 21
+Fixed range. . . . . . . . . . . . . . . . . . . . . 30
+Force. . . . . . . . . . . . . . . . . . . . . 12, 24, 33
+Form. . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+Guard. . . . . . . . . . . . . . . . . . . . . . . . . 9, 23
+Has moved. . . . . . . . . . . . . . . . . . . . . . . 26
+Hit. . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 23
+Ignore Armor. . . . . . . . . . . . . . . . . . . . 31
+Ignore Guard. . . . . . . . . . . . . . . . . . . . . 38
+Inactive (card). . . . . . . . . . . . . . . . . . . . 15
+Initial Discard. . . . . . . . . . . . . . . . . . . . 17
+Life. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Limited Ante. . . . . . . . . . . . . . . . . . . . . 19
+Marker. . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Movement. . . . . . . . . . . . . . . . . . . . . . . 26
+N/A. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+[Opponent] Ante. . . . . . . . . . . . . . . . . 19
+Overload. . . . . . . . . . . . . . . . . . . . . . . . 12
+Perform. . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Pick up (Style/Base). . . . . . . . . . . . . . 31
+Place (marker). . . . . . . . . . . . . . . . . . . . 15
+Power. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Priority. . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Pull. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Push. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Range. . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Reactive Player. . . . . . . . . . . . . . . . . . . 22
+Recycle. . . . . . . . . . . . . . . . . . . . . . . 6, 24
+Reference. . . . . . . . . . . . . . . . . . . . . . 11, 13
+Regain (life). . . . . . . . . . . . . . . . . . . . . . 31
+Regain (token/counter). . . . . . . . . . . 14
+Retreat. . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Reveal. . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Revenge. . . . . . . . . . . . . . . . . . . . . . 13, 37
+Set Phase. . . . . . . . . . . . . . . . . . . . . . . . 19
+Setup (fighter UA). . . . . . . . . . . . . . . . 16
+Shift (marker). . . . . . . . . . . . . . . . . . . . 15
+Special Card. . . . . . . . . . . . . . . . . . . . . 15
+Spend (life). . . . . . . . . . . . . . . . . . . . . . 31
+Spend (token/counter). . . . . . . . . . . . 31
+Start. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Status Effect. . . . . . . . . . . . . . . . . . . . . . 14
+Stun. . . . . . . . . . . . . . . . . . . . . . . . . . 23, 31
+Stun Immunity (
+). . . . . . . . . . . . . . 31
+Style. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Super. . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Supply (area) . . . . . . . . . . . . . . . . . . . . 17
+Switch. . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Teleport. . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Time Over . . . . . . . . . . . . . . . . . . . . . . . 25
+Token. . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Tiebreaker (▲). . . . . . . . . . . . . . . . . . . 21
+Trash (card). . . . . . . . . . . . . . . . . . . . . . 15
+Trash (marker). . . . . . . . . . . . . . . . . . . . 15
+Trash (token/counter). . . . . . . . . . . . . 14
+Triggered Effect. . . . . . . . . . . . . . . . . . . 6
+Ultra. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Unique Ability. . . . . . . . . . . . . . . . . . . . 10
+Use (token/counter). . . . . . . . . . . . . . 14
+Vulnerable. . . . . . . . . . . . . . . . . . . . . . . 31
+When. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+X (Range). . . . . . . . . . . . . . . . . . . . . . . . 31
+Glossary
+Glossary
+Glossary
+Glossary
+
+
+===== СТРАНИЦА 21 =====
+

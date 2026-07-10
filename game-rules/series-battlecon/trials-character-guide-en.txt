@@ -1,0 +1,1142 @@
+
+
+===== СТРАНИЦА 1 =====
+
+
+
+===== СТРАНИЦА 2 =====
+
+2
+3
+Story & Fighter Guide
+It’s been a long ride building BattleCON. With the five-year anniversary of Level 99 
+Games, it seems fitting to be taking a new direction with Trials, taking the game back to 
+its roots and also bringing it forward into a modern form.
+I spent a lot of time thinking about what made BattleCON unique and special, and 
+what attracted us to the game. There’s a certain flexibility and rigidity–a tempering of 
+the expected and unexpected–and the idea of choosing and becoming a fighter who 
+embodies your own style.
+We’ve put a great deal of time and energy making sure that BattleCON: Trials lives up 
+these fundamental ideas. That the characters are unique and exciting, that they will reveal 
+new emergent strategies, and that they will expand upon the core BattleCON experience 
+while also bringing it forward to a new age.
+In Trials, we’ve introduced an updated Force Gauge System, a new Dodge base, and 
+a wide array of cosmetic upgrades to the game. However, all these new developments are 
+done with the same old goal in mind–to deliver the ultimate strategic tabletop dueling 
+experience.
+I hope that you have a great time with BattleCON: Trials!
+Good luck in the battles ahead, and Happy Gaming!
+- D. Brad Talton Jr.
+BattleCON, Designer
+Design and 
+Development Team
+Original Designer
+D. Brad Talton Jr.
+Project Director
+Joshua Van Laningham
+Lead Character Illustrator
+Eunice Abigael Tiu (Nokomento)
+Lead Balance & Development
+Daniel Honig
+Marco De Santos
+Lore & Story Planning
+Julian Kuleck
+Supporting Illustrators
+Fabio Fontes, Corinne Caro, 
+Stephanie Johnson, Mosh Yong, 
+Stephane Dumoulin, Mukhlis Nur
+Marketing & Kickstarter Team
+Chris Solis, Ferdinand 
+Capitulo, Laura La Vito, 
+Joshua Van Laningham
+Technical Support
+Daniel Zeiger, Alice Penn Howard
+Assisting Designers
+Charles Engström, Christopher 
+Smith, Jared Roswurm & Trish Nhan
+Play Testers
+Adam “MarioFanaticXV” Butler, 
+Charles T., Cindurion, Jason Viddal, 
+Kevin “twylite” Lambert, Robert 
+Durant, SirReasoner, Stephen Stoll, 
+tauontwo, Demonkai, Ty Arnold, 
+Kier Arnold, Michael Robles, Joshua 
+Van Laningham, Christopher Smith
+Proof Readers
+Daniel Zeiger, Jason 
+Viddal, Davy Wagner
+Special Thanks 
+Justin Kamerer, Kevin 
+Brusky, Yaron Racah
+... and to you!
+Thanks for playing!
+Foreword & Credits
+Foreword & Credits
+
+
+===== СТРАНИЦА 3 =====
+
+4
+5
+
+
+===== СТРАНИЦА 4 =====
+
+6
+7
+his friend and doing their dirty work, 
+then leave him to perish in the hot 
+desert sun while making off with both 
+keys.
+Too late, the agents of the Imperial 
+Reliquary arrive, Amon Elcela at their 
+head, and sweep up Dareios into a 
+chase to hunt down the daemons and 
+stop them from using the keys.
+Hayden Morgan, assistant to the 
+famed artificer Runika Zenanen, had 
+just rescued her mentor from yet 
+another ill-considered archaeological 
+venture, when they learn the true 
+significance of the spire key that 
+Runika has discovered. Following 
+Hayden’s psionic senses—which 
+resonate oddly with the spire key—
+the two adventurers descend into the 
+caves below the mysterious Mount 
+Ganarl. 
+Deep within the caverns of the sacred 
+mountain, they discover the three 
+daemons engaged in a profane 
+ritual to break open the gateway to 
+Envernes, intent on claiming it solely 
+for themselves. Outmatched two to 
+three, only the timely arrival of Amon, 
+Dareios, and the Reliquary forces tips 
+the fight in their favor. 
+Now with three keys in their 
+possession, the heroes return to the 
+Sandstone Spire, knowing that the 
+call of their keys will soon guide the 
+others to them.
+From within the brig of the airship, 
+Trias, Cindra, and Dravil plan their 
+daring escape. By a few daring feats 
+of trickery and swashbuckling, they 
+manage to escape with Jeris’s spire 
+key, leaving the magister and his 
+minions grounded upon the snowy 
+fields of northern Relecour.
+Following the psionic resonance 
+of the keys, they unite with other 
+travelers from the north and bring 
+their combined four keys towards the 
+Sandstone Spire, where the final keys 
+call to them.
+With all the spire keys gathered 
+together at last in the Reliquary’s 
+I
+n the wake of cataclysm, keys to a long-lost kingdom are 
+rediscovered, and those who hold them are drawn together 
+to decide the future of Indines.
+Over a millennium ago, Indines was 
+connected to the Envernes, also known as 
+the Underlands, a subterranean world as 
+vast as the surface above. One could travel 
+deep enough to find a surface land opposite 
+that of Indines, emerging under a different 
+sky and a different sun. Seven Spires were 
+built to facilitate journeys and trade between 
+Indines and these Underlands, and in 
+ancient times, both sides benefited from 
+fruitful exchange of technology, magic, 
+and ideas. 
+To protect themselves from the dragons 
+who conquered the surface of Indines, 
+the citizens of Envernes sealed the seven 
+passages between the two worlds with 
+seven keys. These spire keys remain lost 
+and scattered to this day. The Seven Spires, 
+originally gateways between Indines and 
+Envernes, now stand as the only reminder 
+of this long-forgotten age of mutual 
+prosperity. Few living now remember their 
+true purpose.
+One fateful day, in a lost ruin upon the 
+remote isle of Xeph, an ancient key was 
+rediscovered by the intrepid Magister Jeris 
+Ieyes. This discovery would set in motion a 
+chain of events wherein one man’s ambition, 
+greed, and curiosity would shake the world’s 
+very foundations.
+Three friends, Trias, Cindra, and Dravil, 
+follow old stories and legends that also 
+lead them to the remote isle of Xeph. But 
+little do they know that a creature of living 
+shadow, Alumis, follows them. She knows 
+the final destination of these keys, and seeks 
+the secret power hidden there.
+Stumbling upon the archaeological base 
+camp of Jeris Ieyes, Trias and his friends 
+learn the full scope of the magister’s 
+plans, only to be captured by Division 13’s 
+henchmen. As Jeris prepares to return to his 
+laboratory, the three friends find themselves 
+locked in the brig of a military airship. 
+One dark and stormy night, in a dingy 
+tavern in northern Relecour, the daemon 
+Lucida bets an ancient key against the 
+wandering alchemist Dareios in a gamble 
+for his soul.
+Dareios wins the bet, and takes the key as 
+a trophy. 
+Intending to present it as a gift to the woman 
+of his dreams, Dareios travels west across the 
+desert sands of Sanghalim, accompanied 
+by his drinking pal Wardlaw O’Brien on a 
+whimsical adventure. Guided by the key 
+as much as luck, they become lost in the 
+desert and discover the temple of Mak’terix, 
+and another key-keeper, Shoshannah, one 
+of the few who understands the relics’ true 
+significance.
+But the daemon Lucida isn’t one to let a lost 
+bet stand in the way of her dinner. Joined 
+by her daemonic “sisters” Dolores and Ariel, 
+they pursue Dareios and the key into the 
+desert. With promises of power and wealth, 
+the daemons tempt Wardlaw into betraying 
+The Story So far...
+The Story So far...
+Those who journey into the 
+Underlands discover the lights 
+of civilization there are as bright 
+as cities of the surface.
+
+
+===== СТРАНИЦА 5 =====
+
+8
+9
+Epilogue
+Though defeated by the assembled 
+heroes, Alumis’ stolen power would 
+do untold damage, releasing still 
+more deadly things contained in the 
+depths of the Reliquary. Captured 
+and bound in an arcane prison, 
+Alumis’s threat seems contained for 
+now, though the daemons and the 
+villainous Wardlaw O’Brien continue 
+to remain at large.
+All across Indines, the six remaining 
+spires opened their vaults at once 
+in response to the opening of the 
+Sandstone Spire, restoring free 
+passage between Indines and 
+Envernes once more. The people 
+of the lands below, the Envernes, 
+emerge once more upon the surface, 
+and the knowledge and secrets they 
+carry will present all-new challenges 
+for the World of Indines.
+headquarters, the Sandstone Spire, 
+the heroes prepare to break the 
+seal upon the spires and reunite two 
+worlds once more. 
+Alumis, who has quietly bided her 
+time, uses this opportunity and 
+the assistance of her accomplices 
+Wardlaw and the daemon Lucida, to 
+slip into the vaults of the Reliquary 
+and acquire her true objective: the 
+damaged body of the machine god 
+Mak’terix. Possessing a god’s form 
+and power for herself at last, she 
+plans to control both the surface and 
+the Underlands!
+... together, the gathered heroes must fight to decide 
+the destiny of two worlds—before both are torn 
+asunder!
+The Story So far...
+The Story So far...
+
+
+===== СТРАНИЦА 6 =====
+
+11
+11
+TINKERER
+When the time is right, partake 
+from drinks for powerful 
+alchemical advantages.
+Dareios Kuel
+Dareios Kuel
+Fighter Select
+Fighter Select
+BRAWLER
+Use your staff to enhance your 
+powerful magical attacks—
+but make sure it isn’t stolen!
+Uleyle Kimbhe
+Uleyle Kimbhe
+TINKERER
+Baffle your opponents to 
+keep them at range, then 
+tell a tale of their defeat.
+Trias Blackwind
+Trias Blackwind
+SLUGGER
+Use your swift movement to 
+pin your opponent against 
+the wall, then punish them.
+Wardlaw O’Brien
+Wardlaw O’Brien
+MAGE
+Balance fury and control to 
+master your psychic powers 
+and control the battlefield.
+Hayden Morgan
+Hayden Morgan
+TACTICIAN
+Splash paint markers 
+across the board to attack 
+from unexpected angles.
+Burgundy Twelve
+Burgundy Twelve
+BRAWLER
+Arise like the phoenix midway 
+through the match, revealing 
+a set of powerful new styles.
+Cindra Flama
+Cindra Flama
+TACTICIAN
+Shift between two forms—
+steam and ice—to take 
+your opponent off-guard.
+Dravil Coldwater
+Dravil Coldwater
+SLUGGER
+Utilize shields that strengthen 
+in response to enemy 
+assaults, and counterattack.
+Amon Elcela
+Amon Elcela
+Novice
+Intermediate
+Advanced
+DISRUPTOR
+Sap your enemy’s strength 
+and grow stronger the 
+weaker they become.
+Lucida Malephaise
+Lucida Malephaise
+
+
+===== СТРАНИЦА 7 =====
+
+12
+12
+13
+13
+Amon Elcela
+CHIEF CONTAINMENT SPECIALIST
+SLUGGER / INTERMEDIATE
+“The time has come to atone for my sins.”
+	
+○Age: 27
+	
+○Gender: Male
+	
+○Race: Human
+Years ago, Amon was half of a team 
+of independent artificers. Working together 
+with his sister, Gretyle, he would excavate 
+the many ruins around their homeland of 
+Sanghalim, restoring ancient artifacts. 
+One day when Gretyle returned with a 
+dragonflare orb, an ancient weapon of mass 
+destruction, Amon restored its functionality, 
+not realizing its intended purpose. The 
+weapon activated without warning, exploding 
+in a massive blast of heat and light. Though 
+Amon survived its blast behind a barrier 
+field, Gretyle was killed, and their town was 
+devastated.
+Amon fled to the Reliquary and, as 
+penance for his carelessness, pledged his 
+life to protect the people of Indines from 
+dangerous artifacts. With his skill as an 
+artificer, he quickly rose to the rank of Chief 
+Containment Specialist.
+Now he pursues the keys to the ancient 
+Spires, one of which is controlled by the 
+Reliquary. While others dream of treasure and 
+power within those ancient towers, Amon fears 
+what lurks beneath the surface of Indines.
+The time has come to prevent another 
+disaster, and to keep the dangers of the 
+ancient world sealed away. Calling on the 
+help of the sniper Tyrafelle 
+Melantas and the monster 
+hunter Joal Kalmor, Amon is 
+ready to do his duty, no matter 
+the personal cost.
+Complete Kit
+	
+○1 Fighter Card
+	◦Damage Control
+	
+○5 Styles
+	◦Containment
+	◦Deflection
+	◦High-Alert
+	◦Impenetrable
+	◦Regulation
+	
+○1 Base
+	◦Wall
+	
+○1 Finisher
+	◦Code Black (α)
+	◦Lockdown (ß)
+	
+○4 Form Cards
+	◦Code White
+	◦Code Green
+	◦Code Yellow
+	◦Code Red
+The Reliquary was formed 
+in the wake of the Dragon 
+Wars in order to protect 
+Indines from the myriad 
+weapons and dangers left 
+behind by the conflict.
+Amon Elcela
+Amon Elcela
+
+
+===== СТРАНИЦА 8 =====
+
+14
+14
+15
+15
+Burgundy Twelve
+THE COLOR OUT OF SPACE
+TACTICIAN / NOVICE
+“We’re all the same color, on the inside…”
+	
+○Age: ???
+	
+○Gender: None
+	
+○Race: Shade
+Magister Jeris Ieyes of Willat has traveled 
+across the planes for ages, collecting all 
+manner of curiosities from strange new worlds. 
+One of his most exciting discoveries was a 
+sentient color pattern, which he stumbled 
+upon while exploring a distant, dying world.
+After the color killed his assistant, 
+Wilman, Jeris named his new discovery 
+“Wilman’s Rust” and captured a sample of 
+the substance to bring back for his menagerie.
+Over the years, Magister Ieyes has made 
+great strides in teaching and training this 
+malleable substance. Wilman’s Rust learned 
+quickly, how to draw pictures and gain new 
+forms, how to communicate, and how to 
+manifest itself in a three-dimensional world.
+One sample of Wilman’s Rust, code-
+named Burgundy, was submitted to the 
+Division Thirteen supersoldier program 
+in Willat. This particular strain showed 
+an unhinged, psychotic intelligence, but 
+restrained enough to follow orders. While 
+Burgundy failed to be integrated into any of 
+the many programs the division embarked 
+on, it was deemed dangerous and capable 
+enough on its own to act as part of the 
+Division’s Black Ops unit.
+Dispatched to track down the spire keys 
+and return them to the magisters, Burgundy 
+is set loose upon the world for the first time 
+along fellow agents from Division 13. Working 
+alongside Thessala Three and Oriax Two, 
+Burgundy stands ready to wreak havoc on 
+anything that strikes his fancy.
+Complete Kit
+	
+○1 Fighter Card
+	◦Color Burn
+	
+○5 Styles
+	◦Flattened
+	◦Graphic
+	◦Scarlet
+	◦Scrawled
+	◦Stained
+	
+○1 Base
+	◦Slaughter
+	
+○1 Finisher
+	◦Emperor’s New Clothes (α)
+	◦The Flying Circus (ß)
+	
+○5 Markers
+	◦Paint (x5)
+Burgundy is not the only Shade in Indines. 
+Burgundy is not the only Shade in Indines. 
+Rumor has it that another such creature, code-
+Rumor has it that another such creature, code-
+named “Marigold” serves the Planestalkers.
+named “Marigold” serves the Planestalkers.
+Burgundy Twelve
+Burgundy Twelve
+
+
+===== СТРАНИЦА 9 =====
+
+16
+16
+17
+17
+Cindra Flama
+RISEN FROM THE ASHES
+BRAWLER / NOVICE
+“No matter how many times I must 
+try, I won’t fail in my resolve.”
+	
+○Age: 58
+	
+○Gender: Female
+	
+○Race: Human (Spirit-Bound —Phoenix)
+Years ago, bandits attacked a small 
+village in the heart of the continent, killing 
+every man, woman, and child in a raid. Cindra 
+escaped from the slaughter by fleeing into a 
+nearby woods, where she survived using the 
+skills that her father, a huntsman, had taught 
+her. Still, she was young, and was forced to 
+learn many lessons the hard way.
+One day, struggling with starvation, 
+she came upon a large egg. Too hungry 
+to wait for a cookfire, she quickly snatched 
+from its nest and ate it raw. Little did she 
+know this was the egg of a powerful nature 
+spirit, a phoenix, mid-way through its cycle 
+of reincarnation. Instead of being reborn as 
+usual, the phoenix’s soul merged with Cindra. 
+Soon thereafter, her path crossed with that of 
+the angelic Rheye Cal, who adopted her as 
+a daughter and helped Cindra master her 
+newfound power with divine bindings.
+Each time she dies, Cindra is resurrected 
+again at the same age as she was that fateful 
+day she merged with the phoenix. Since that 
+time, she has set her skills to aiding others, 
+becoming a healer of some renown. Her time 
+with Rheye at Argent University brought her 
+into contact with Xenitia, a fellow healer, and 
+they became close friends.
+When Xenitia left Argent to 
+search for answers to her past, 
+Cindra regretted not joining her 
+for that adventure. In the hopes 
+of finding her friend now, she 
+has joined up with Dravil and 
+Trias on their quest for the keys, 
+hoping she can follow in Xenitia’s 
+footsteps.
+ Complete Kit
+	
+○1 Fighter Card
+	◦Rebirth
+	
+○5 Styles
+	◦Ashen
+	◦Cinder
+	◦Phoenix
+	◦Rising
+	◦Soaring
+	
+○5 Phoenix Styles
+	◦Ember
+	◦Kindled
+	◦Luminary
+	◦Perilous
+	◦Smoldering
+	
+○1 Base
+	◦Wings
+	
+○1 Finisher
+	◦Cinder Storm (α)
+	◦Blazing Pyre (ß)
+	
+○1 Form Card
+	◦Human Form (front)
+	◦Phoenix Form (back)
+	
+○1 Status Card
+	◦Storm Rekindled
+Cindra Flama
+Cindra Flama
+Spirits like the 
+Phoenix are kin to 
+elementals, but are 
+far more mercurial. 
+Some suspect they 
+may have been the 
+first creatures in 
+Indines, predating 
+both animal and 
+elemental.
+
+
+===== СТРАНИЦА 10 =====
+
+18
+18
+19
+19
+Dareios Kuel
+WANDERING BREWMASTER
+TINKERER / ADVANCED
+“Our world is filled with wonders, and 
+it’s my dream to taste them all!”
+	
+○Age: 31
+	
+○Gender: Male
+	
+○Race: Human
+The Gesselheimian brewer Dareios has 
+wandered Indines, searching out rare flavors 
+and exotic spices to use in his concoctions. On 
+one of his many adventures, he crossed paths 
+with the mystic Tatsumi Nuoc, and for him, it 
+was love at first sight. Since that fateful day, 
+he has searched for some gift to express his 
+feelings for her.
+One dark and stormy night, he 
+chanced upon a mysterious green-haired 
+woman drinking alone in a bar. He shared 
+his predicament with her, and the woman 
+challenged him to a game–his soul against 
+an ancient and priceless treasure. Dareios 
+managed to win, and his prize was a strange 
+relic—something like a key.
+With the treasure in hand, he journeyed to 
+the west to present it to Tatsumi, aided by the 
+chummy Wardlaw O’Brien. However, darker 
+forces are close on his heels. The Daemons 
+want their key returned, and Wardlaw quietly 
+conspires to steal the key and whatever 
+secrets it hides.
+Carefree as ever, Dareios continues on 
+his adventures, drawn unwittingly into a series 
+of events that will change the face of Indines 
+itself.
+ Complete Kit
+	
+○1 Fighter Card
+	◦Dipsomania
+	
+○5 Styles
+	◦Shuffling
+	◦Slandering
+	◦Slurred
+	◦Staggering
+	◦Stumbling
+	
+○1 Base
+	◦Keg
+	
+○1 Finisher
+	◦Drunken Master (α)
+	◦Extraordinaire Ether (ß)
+	
+○5 Drink Cards
+	◦Aqueous Arbor
+	◦Emeraldabier
+	◦Tea Transcendent
+	◦Vustasi Vapor
+	◦Zocean Zudd
+Cocktails in Indines often incorporate 
+elements of herbology and alchemy, 
+and may have a kick well beyond 
+mere alcoholic content.
+Dareios Kuel
+Dareios Kuel
+
+
+===== СТРАНИЦА 11 =====
+
+20
+20
+21
+21
+Dravil Coldwater
+CHRONICLER FROM THE NORTH
+TACTICIAN / ADVANCED
+“What story will they tell of us?”
+	
+○Age: 36
+	
+○Gender: Male
+	
+○Race: Human (Elemental Touched 
+—Water)
+Dravil hails from the Northlands, beyond 
+the mountains that divide Indines from an 
+unexplored polar region.
+Dravil is a chronicler, a professional 
+storyteller charged with preserving the history 
+of the world in song and speech, and passing 
+these legends on wherever he goes.
+A short time ago, the dragon king 
+Greyheart was poised to be released from 
+a thousand-year imprisonment and to wipe 
+humanity from the continent. Intent on 
+seeing history made, Dravil journeyed to the 
+south and watched as the Dragon King was 
+defeated by a group of unlikely heroes.
+After composing the tale of the Dragon 
+King’s fall, Dravil recalled another old legend, 
+all but forgotten in the southern lands. It told 
+of a world long lost, sealed away from the 
+surface when the dragons came to power 
+ages ago. As word of his story has spread, 
+adventurers have begun new quests to find 
+the keys to the ancient Spires.
+When his tales draw the interest of Cindra 
+and Trias to seek out the spire keys, he joins 
+them, realizing a new chapter—and perhaps 
+even a conclusion—to his ancient tale lies 
+ahead.
+ Complete Kit
+	
+○1 Fighter Card
+	◦Ebbing Tide
+	
+○5 Styles
+	◦Cloying
+	◦Frozen
+	◦Lunar
+	◦Resonant
+	◦Torrential
+	
+○1 Base
+	◦Storm
+	
+○1 Finisher
+	◦Blue Dragon’s Scalding 
+Breath (α)
+	◦Blue Dragon’s Slicing 
+Teeth (ß)
+	
+○2 Markers
+	◦Ice
+	◦Steam
+The legendary blue dragon 
+The legendary blue dragon 
+venerated in the Northlands 
+venerated in the Northlands 
+is actually an elemental 
+is actually an elemental 
+who migrates with the 
+who migrates with the 
+seasons, changing its form 
+seasons, changing its form 
+and gender as it travels.
+and gender as it travels.
+Dravil Coldwater
+Dravil Coldwater
+
+
+===== СТРАНИЦА 12 =====
+
+22
+22
+23
+23
+Hayden Morgan
+LATENT PSIONIC
+MAGE / ADVANCED
+“This isn’t about the mission anymore. 
+I need to do this for myself.”
+	
+○Age: 22
+	
+○Gender: Female
+	
+○Race: Human
+Since she was young, Hayden has 
+possessed a mysterious power that she didn’t 
+fully understand. Raised with a deep loyalty 
+to her nation and the principles of honor, she 
+joined the Armiger Corps of her homeland, 
+Jeffreys, and became an assistant to the 
+legendary artificer Runika Zenanen.
+In her research, Runika discovered an 
+ancient form of magic which she believed 
+held the key to unlocking Hayden’s full 
+potential. The chief armiger began excavating 
+obsessively into Indines’ ancient ruins, certain 
+that she was upon the eve of some big find. 
+Then, one morning, she was simply gone.
+Among the Chief Armiger’s effects, 
+Hayden found only a collection of old 
+notebooks and a strange key-like device, 
+which she felt must have some connection 
+to the lost, underground world they were 
+researching. Resolved to do her duty to 
+her nation and herself, Hayden has set out 
+with the Knights of the Circle to discover 
+what happened to Runika. Though she has 
+some control over the power she wields, 
+this adventure will push her to master her 
+power—lest it master her.
+ Complete Kit
+	
+○1 Fighter Card
+	◦Breaking Point
+	
+○5 Styles
+	◦Latent
+	◦Reckless
+	◦Telekinetic
+	◦Telestatic
+	◦Versatile
+	
+○1 Base
+	◦Potential
+	
+○1 Finisher
+	◦Hemorrhage (α)
+	◦Total Control (ß)
+	
+○7 Control/Fury Counters
+	◦Control (front)
+	◦Fury (back)
+Psionics were first mastered by the citizens 
+of the subterranean world of Envernes, 
+and subsequently lost with the sealing of 
+the Underlands. This may be why the vault 
+keys still resonate with psionic energy.
+Hayden Morgan
+Hayden Morgan
+
+
+===== СТРАНИЦА 13 =====
+
+24
+24
+25
+25
+Lucida Malephaise
+Lucida Malephaise
+Lucida Malephaise
+THE DEVOURER
+DISRUPTOR / INTERMEDIATE
+“I will devour this world, piece by piece!”
+	
+○Age: 464
+	
+○Gender: Female
+	
+○Race: Daemon (formerly Elvan)
+In ages long past, the Daemon King 
+Malephaise was sealed away, and his power 
+split into eight mighty relics lost to time. 
+One of these, the Jaws of Malephaise, fell 
+into the possession of Lucida, corrupting 
+her and transforming her. Now, concerned 
+only with devouring the souls of the living, 
+Lucida wanders the world of Indines, seeking 
+foolhardy adventurers to consume.
+Long ago, when she was still a young 
+Elvan living in the marshlands of the north, 
+Lucida was charged with guarding a treasure 
+of her people, an ancient key to a long 
+forgotten place. Over four centuries, she kept 
+it by her side constantly, the final reminder 
+of who she used to be. One fateful night, 
+however, she lost the key in a game of chance 
+to a wily adventurer named Dareios.
+Only the next morning, when the reality 
+of the situation caught up with her, did she 
+realize what she had done, what that treasure 
+meant to her, and what it might be used for in 
+the wrong hands.
+Joined by her sisters Dolores and Ariel, 
+Lucida tracks Dareios across the land of 
+Indines. But she keeps one eye on her siblings, 
+realizing they have their own secret plans for 
+the key…
+ Complete Kit
+	
+○1 Fighter Card
+	◦Jaws of Malephaise
+	
+○5 Styles
+	◦Corrosive
+	◦Devouring
+	◦Insatiable
+	◦Sharpened
+	◦Voracious
+	
+○1 Base
+	◦Teeth
+	
+○1 Finisher
+	◦Whet the Jaws (α)
+	◦Embalming Extraction (ß)
+	
+○4 Rend/Consume Tokens
+	◦Courage
+	◦Pain
+	◦Spirit
+	◦Valor
+After the fall of the 
+demon king, the 
+Malephaise Sisters 
+are now free to pursue 
+their own designs—
+so much the worse 
+for the innocent 
+souls of Indines.
+
+
+===== СТРАНИЦА 14 =====
+
+26
+26
+27
+27
+Trias Blackwind
+THE ONE AND ONLY
+TINKERER / INTERMEDIATE
+“No autographs, please.”
+	
+○Age: 18
+	
+○Gender: Male
+	
+○Race: Human (Elemental Touched 
+—Wind)
+Once an adventurer in the distant land 
+of Amalao, Trias’s adventures eventually 
+brought him to the continent of Indines, to 
+learn the history of his lineage and the truth 
+behind Blackwind, the malevolent spirit that 
+inhabits his family-heirloom cithara and 
+shares his family name.
+Known as a routine teller of tall-tales, 
+Trias nevertheless remains well-liked by just 
+about everyone he meets. Once at Argent, his 
+reputation and popularity quickly saw him 
+elected as the student body president, and 
+even an outside chance at the chancellorship 
+of the university.
+With his search for answers at Argent 
+going nowhere, Trias was left wondering why 
+he still remained there. A fateful meeting with 
+a storyteller from the far north and talk of 
+fabled treasure lost to time prompted him to 
+abandon his post and strike out on a course 
+for adventure once more. 
+Joining up with Dravil and Cindra, 
+Trias has headed east to his homeland on 
+an adventure to track down the spire keys, 
+beginning with the old legends of where they 
+were lost.
+ 
+Complete Kit
+	
+○1 Fighter Card
+	◦Embellish
+	
+○5 Styles
+	◦Awesome
+	◦Epic
+	◦Outrageous
+	◦Resounding
+	◦Spoony
+	
+○1 Base
+	◦Ballad
+	
+○1 Finisher
+	◦Jetstream (α)
+	◦The Black Wind (ß)
+	
+○6 Embellishment Cards
+	◦+ from the Heavens!
+	◦+ of the Ages!
+	◦+ With Style!
+	◦Perfectly +
+	◦Super +
+	◦Truly +
+The origin of Trias’ scar 
+remains mysterious, as 
+the tale of how he came 
+to receive it always 
+seems to change...
+Trias Blackwind
+Trias Blackwind
+
+
+===== СТРАНИЦА 15 =====
+
+28
+28
+29
+29
+Uleyle Kimbhe
+ARCHMAGE OF RELECOUR
+BRAWLER / NOVICE
+“I didn’t get to be this badass just by talking 
+a good game. Try me and you’ll see.”
+	
+○Age: 34
+	
+○Gender: Female
+	
+○Race: Human
+As the archmage of Relecour, Kimbhe 
+travels the land hunting down those who 
+would use magic for their own evil ends. Her 
+skill in combat magic has earned her one of 
+the most feared and respected reputations of 
+the age.
+Kimbhe’s latest adventure began when 
+her friend Nostros Calahaan, chancellor 
+of Argent University, resigned abruptly. 
+Before he left to return home to the faraway 
+continent, he entrusted Uleyle with an ancient 
+treasure, telling her that he did not trust the 
+next chancellor with its secrets.
+Now that the race to fill Calahaan’s 
+position has ended, several of his would-be 
+successors have turned to investigating her, 
+certain that she possesses something that the 
+old chancellor left behind. Moreover, sinister 
+forces such as the Blackspire Mercenaries and 
+Division 13 seek to claim the keys for their own 
+advantage.
+For her part, Kimbhe searches for the 
+secret behind the spire key that Calahaan 
+left her, uncertain of what its purpose may be, 
+but determined not to let it fall into any other 
+hands. Her journey brings her into contact 
+with the Gesselheimian knight and keybearer 
+Baenvier Marlgrove, and the two unlikely 
+allies find themselves working 
+together to uncover the fate of the 
+artifacts they bear.
+ Complete Kit
+	
+○1 Fighter Card
+	◦Archmage’s Staff
+	
+○5 Styles
+	◦Expulsion
+	◦Fulminating
+	◦Penumbral
+	◦Quake
+	◦Quickening
+	
+○1 Base
+	◦Caster
+	
+○1 Finisher
+	◦Mage Hunter (α)
+	◦Archmage’s Ambition (ß)
+	
+○1 Staff Marker
+Archmages are mage hunters, charged with 
+enforcing magical law and hunting down 
+those who would use their magic to subvert 
+the national governments of Indines.
+Uleyle Kimbhe
+Uleyle Kimbhe
+
+
+===== СТРАНИЦА 16 =====
+
+30
+30
+31
+31
+Wardlaw O’Brien
+SELF-STYLED VILLAIN
+SLUGGER / INTERMEDIATE
+“You’re goin’ down, chump!”
+	
+○Age: 45
+	
+○Gender: Male
+	
+○Race: Human
+For a short time after acquiring the 
+legendary Belt of Beatdown and all the 
+incredible fighting powers that came with it, 
+Wardlaw O’Brien lived the easy life of a self-
+styled villain, but ultimately became bored 
+and despondent. Moreover, the resulting bar 
+tab had sapped him of every ill-gotten coin 
+he could get his hands on.
+One fateful night, when he was drinking 
+alone in the back of a bar, he overheard a 
+curious wager, of a man’s soul against a 
+Daemon for an ancient treasure. Catching 
+sight of the treasure, Wardlaw recognized it 
+as some sort of key. In that moment, he was 
+struck by a faint memory of the stories he had 
+heard in his youth. He remembered tales of a 
+secret world beneath the surface, filled with 
+incredible wealth and treasures, and a gate 
+to that place hidden deep within a tower just 
+outside his village.
+Deciding to get his hands on the key 
+and see if there is any truth to the legends, 
+Wardlaw slyly joined Dareios, the man who 
+had won the key, in hopes of making his new 
+ambitions of wealth and power a reality.
+ Complete Kit
+	
+○1 Fighter Card
+	◦Beatdown
+	
+○5 Styles
+	◦Charging
+	◦Dangerous
+	◦Massive
+	◦Overhead
+	◦Smackdown
+	
+○1 Base
+	◦Clothesline
+	
+○1 Finisher
+	◦Pain Train (α)
+	◦Double Moustache Buster 
+(ß)
+The Beat of Beatdown 
+is an ancient artifact 
+once held by the monks 
+of the Six Paths, and 
+was discovered by 
+Wardlaw when he raided 
+their fallen temple.
+Wardlaw O’Brien
+Wardlaw O’Brien
+
+
+===== СТРАНИЦА 17 =====
+
