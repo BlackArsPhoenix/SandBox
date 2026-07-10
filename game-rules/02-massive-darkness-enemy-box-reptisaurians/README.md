@@ -7,7 +7,7 @@
 
 ## Правила
 
-См. полный текст: [`../../_shared/massive-darkness-1/rules-ru.txt`](../../_shared/massive-darkness-1/rules-ru.txt)
+См. PDF правил: [`../_shared/massive-darkness-1/Kromeshnaya-tma-rules-ru.pdf`](../_shared/massive-darkness-1/Kromeshnaya-tma-rules-ru.pdf)
 
 ## Метаданные Tesera
 

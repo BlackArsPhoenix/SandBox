@@ -15,14 +15,14 @@ Kickstarter-эксклюзивный набор для базовой «Кром
 
 ## Как играть
 
-1. Базовые правила: `../_shared/massive-darkness-1/rules-ru.txt`
+1. Базовые правила: `../_shared/massive-darkness-1/Kromeshnaya-tma-rules-ru.pdf`
 2. Новые герои/классы/враги подмешиваются в соответствующие колоды и используются по стандартным правилам MD1.
 3. Квесты с тайлами лавы/кристалла — по книге квестов из набора (см. также Crowd Games: «Песнь хрусталя и лавы»).
 
 
 ## Локальные материалы
 
-- [`quests-crystal-and-lava-ru.txt`](./quests-crystal-and-lava-ru.txt) — текст PDF «Песнь хрусталя и лавы» (Crowd Games / Яндекс.Диск)
+- [`Pesn-hrustalya-i-lavy.pdf`](./Pesn-hrustalya-i-lavy.pdf) — PDF «Песнь хрусталя и лавы» (Crowd Games / Яндекс.Диск)
 - [`related-crystal-and-lava-crowdgames.md`](./related-crystal-and-lava-crowdgames.md) — описание дополнения с сайта Crowd Games
 - [`tesera-description.md`](./tesera-description.md)
 

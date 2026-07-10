@@ -7,13 +7,10 @@
 
 | Файл | Содержание |
 |------|------------|
-| [`core-rules-ru.txt`](./core-rules-ru.txt) | Полные правила RU (GaGa / Hobby Games), v4.2 |
-| [`core-rules-en.txt`](./core-rules-en.txt) | Core Rulebook EN v4.2 (Nastolio) |
-| [`trials-character-guide-en.txt`](./trials-character-guide-en.txt) | Character Guide к Trials of Indines |
+| [`BattleCON-core-rules-v4.2-ru.pdf`](./BattleCON-core-rules-v4.2-ru.pdf) | Полные правила RU (GaGa / Hobby Games), v4.2 |
+| [`BattleCON-Core-Rulebook-v4.2-en.pdf`](./BattleCON-Core-Rulebook-v4.2-en.pdf) | Core Rulebook EN v4.2 (Nastolio) |
+| [`BattleCON-Trials-Character-Guide-en.pdf`](./BattleCON-Trials-Character-Guide-en.pdf) | Character Guide к Trials of Indines |
 
 ## Источники
 
-- Hobby Games PDF: https://hobbygames.ru/download/rules/battlecon-ispitanija-indin-rules.pdf
-- Nastolio (Погибель Индин): https://nastol.io/battlecon_devastation_of_indines/files
-- Nastolio (Испытания Индин): https://nastol.io/battlecon_trials_of_indines/files/rules
-- Tesera: https://tesera.ru/game/battlecon-trials-of-indines/
+См. [`sources.md`](./sources.md).

@@ -7,7 +7,7 @@
 
 ## Правила
 
-См. полный текст: [`../../_shared/massive-darkness-1/rules-ru.txt`](../../_shared/massive-darkness-1/rules-ru.txt)
+См. PDF правил: [`../_shared/massive-darkness-1/Kromeshnaya-tma-rules-ru.pdf`](../_shared/massive-darkness-1/Kromeshnaya-tma-rules-ru.pdf)
 
 ## Метаданные Tesera
 
@@ -264,7 +264,7 @@ Gameplay на английском языке от CMON.
 
 ## Локальные материалы
 
-- [`class-sheets-bloodmoon-courier-ru.txt`](./class-sheets-bloodmoon-courier-ru.txt) — листы класса «Гонец кровавой луны» с Яндекс.Диска Crowd Games (связанный класс линейки Bloodmoon; в коробке набора заявлен класс «Убийца кровавой луны»)
+- [`Gonets-krovavoy-luny-class-sheets.pdf`](./Gonets-krovavoy-luny-class-sheets.pdf) — листы класса «Гонец кровавой луны» (Crowd Games / Яндекс.Диск; связанный класс линейки Bloodmoon)
 
 ## Ссылки с Tesera
 

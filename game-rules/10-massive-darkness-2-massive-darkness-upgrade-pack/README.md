@@ -15,8 +15,8 @@
 
 ## Как играть
 
-1. Правила MD2: `../_shared/massive-darkness-2/rules-ru.txt`
-2. FAQ MD2: `../_shared/massive-darkness-2/faq-en.txt`
+1. Правила MD2: `../_shared/massive-darkness-2/Kromeshnaya-tma-Preispodnyaya-rules-ru.pdf`
+2. FAQ MD2: `../_shared/massive-darkness-2/MD2-FAQ-v1.1-en.pdf`
 3. Карты/буклет из Upgrade Pack подменяют/дополняют контент MD1 для совместимости с MD2.
 
 ## Источники
