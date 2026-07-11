@@ -1,0 +1,706 @@
+[
+  {
+    "id": 1,
+    "members": [
+      {
+        "ai": "Adjenna",
+        "en": "Adjenna",
+        "ru": "Адженна",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Alexian",
+        "en": "Alexian",
+        "ru": "Алексиан",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Arec",
+        "en": "Arec",
+        "ru": "Арек",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Clinhyde",
+        "en": "Clinhyde",
+        "ru": "Клинхайд",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Ottavia",
+        "en": "Ottavia",
+        "ru": "Оттавия",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      }
+    ],
+    "matrix": [
+      [
+        null,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        null,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        null,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        null,
+        1
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        null
+      ]
+    ],
+    "is_circle": true
+  },
+  {
+    "id": 2,
+    "members": [
+      {
+        "ai": "Aria",
+        "en": "Aria",
+        "ru": "Ария",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Byron",
+        "en": "Byron",
+        "ru": "Байрон",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Kajia",
+        "en": "Kajia",
+        "ru": "Каджия",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Lesandra",
+        "en": "Lesandra",
+        "ru": "Лесандра",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Oriana",
+        "en": "Oriana",
+        "ru": "Ориана",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      }
+    ],
+    "matrix": [
+      [
+        null,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        null,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        null,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        null,
+        1
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        null
+      ]
+    ],
+    "is_circle": true
+  },
+  {
+    "id": 3,
+    "members": [
+      {
+        "ai": "Cesar",
+        "en": "César",
+        "ru": "Сезар",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Voco",
+        "en": "Vovo",
+        "ru": "Воко",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Mikhail",
+        "en": "Mikhail",
+        "ru": "Михаил",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Runika",
+        "en": "Runika",
+        "ru": "Руника",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Eligor",
+        "en": "Eligor",
+        "ru": "Элигор",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      }
+    ],
+    "matrix": [
+      [
+        null,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        null,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        null,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        null,
+        1
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        null
+      ]
+    ],
+    "is_circle": true
+  },
+  {
+    "id": 4,
+    "members": [
+      {
+        "ai": "Alexian",
+        "en": "Alexian",
+        "ru": "Алексиан",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Karin",
+        "en": "Karin",
+        "ru": "Карин",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Marmelee",
+        "en": "Marmelee",
+        "ru": "Мармелли",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Tanis",
+        "en": "Tanis",
+        "ru": "Танис",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Gerard",
+        "en": "Gerard",
+        "ru": "Жерар",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      }
+    ],
+    "matrix": [
+      [
+        null,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        null,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        null,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        null,
+        1
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        null
+      ]
+    ],
+    "is_circle": true
+  },
+  {
+    "id": 5,
+    "members": [
+      {
+        "ai": "Adjenna",
+        "en": "Adjenna",
+        "ru": "Адженна",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Rexan",
+        "en": "Rexan",
+        "ru": "Рексан",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Arec",
+        "en": "Arec",
+        "ru": "Арек",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Aria",
+        "en": "Aria",
+        "ru": "Ария",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Shekhtur",
+        "en": "Shekhtur",
+        "ru": "Шектур",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      }
+    ],
+    "matrix": [
+      [
+        null,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        null,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        null,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        null,
+        1
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        null
+      ]
+    ],
+    "is_circle": true
+  },
+  {
+    "id": 6,
+    "members": [
+      {
+        "ai": "Cesar",
+        "en": "César",
+        "ru": "Сезар",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Lymn",
+        "en": "Lymn",
+        "ru": "Лимн",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Kajia",
+        "en": "Kajia",
+        "ru": "Каджия",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Marmelee",
+        "en": "Marmelee",
+        "ru": "Мармелли",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Gerard",
+        "en": "Gerard",
+        "ru": "Жерар",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      }
+    ],
+    "matrix": [
+      [
+        null,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        null,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        null,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        null,
+        1
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        null
+      ]
+    ],
+    "is_circle": true
+  },
+  {
+    "id": 7,
+    "members": [
+      {
+        "ai": "Byron",
+        "en": "Byron",
+        "ru": "Байрон",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Lesandra",
+        "en": "Lesandra",
+        "ru": "Лесандра",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Runika",
+        "en": "Runika",
+        "ru": "Руника",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Karin",
+        "en": "Karin",
+        "ru": "Карин",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Clinhyde",
+        "en": "Clinhyde",
+        "ru": "Клинхайд",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      }
+    ],
+    "matrix": [
+      [
+        null,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        null,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        null,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        null,
+        1
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        null
+      ]
+    ],
+    "is_circle": true
+  },
+  {
+    "id": 8,
+    "members": [
+      {
+        "ai": "Eligor",
+        "en": "Eligor",
+        "ru": "Элигор",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Karin",
+        "en": "Karin",
+        "ru": "Карин",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Shekhtur",
+        "en": "Shekhtur",
+        "ru": "Шектур",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Mikhail",
+        "en": "Mikhail",
+        "ru": "Михаил",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      },
+      {
+        "ai": "Rexan",
+        "en": "Rexan",
+        "ru": "Рексан",
+        "box": "Погибель Индин",
+        "wins": 2,
+        "games": 4,
+        "winrate": 50.0
+      }
+    ],
+    "matrix": [
+      [
+        null,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        null,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        null,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        null,
+        1
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        null
+      ]
+    ],
+    "is_circle": true
+  }
+]

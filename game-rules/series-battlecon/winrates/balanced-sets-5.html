@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BattleCON — сбалансированные сэты по 5 бойцов</title>
+<style>
+  :root {
+    --bg: #1a1c22;
+    --panel: #242733;
+    --text: #e8e6e3;
+    --muted: #9a968c;
+    --line: #3a3d4a;
+    --win: #2d6a4f;
+    --win-text: #b7e4c7;
+    --loss: #6a2d2d;
+    --loss-text: #f1b0b0;
+    --accent: #c4a35a;
+    --head: #2e3140;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Segoe UI", "PT Sans", system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.45;
+  }
+  main { max-width: 1100px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+  h1 { font-size: 1.75rem; font-weight: 650; margin: 0 0 .5rem; color: var(--accent); }
+  h2 { font-size: 1.25rem; margin: 2rem 0 .75rem; border-bottom: 1px solid var(--line); padding-bottom: .35rem; }
+  .lead { color: var(--muted); max-width: 70ch; margin-bottom: 1.5rem; }
+  .lead code { color: var(--accent); }
+  .note {
+    background: var(--panel);
+    border-left: 3px solid var(--accent);
+    padding: .75rem 1rem;
+    margin: 1rem 0 2rem;
+    color: var(--muted);
+    font-size: .95rem;
+  }
+  .set {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 1rem 1.1rem 1.25rem;
+    margin: 0 0 1.75rem;
+  }
+  .set-title { margin: 0 0 .75rem; font-size: 1.15rem; }
+  .badge {
+    display: inline-block;
+    font-size: .75rem;
+    padding: .15rem .5rem;
+    border-radius: 4px;
+    background: #1e3d32;
+    color: var(--win-text);
+    vertical-align: middle;
+    margin-left: .4rem;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: .92rem;
+    margin: .5rem 0 0;
+  }
+  th, td {
+    border: 1px solid var(--line);
+    padding: .4rem .55rem;
+    text-align: center;
+  }
+  th { background: var(--head); font-weight: 600; }
+  td.name, th.name { text-align: left; white-space: nowrap; }
+  .ru { color: var(--muted); font-size: .85em; }
+  .win { background: var(--win); color: var(--win-text); font-weight: 600; }
+  .loss { background: var(--loss); color: var(--loss-text); }
+  .diag { background: #1a1c22; color: var(--muted); }
+  .wr { font-variant-numeric: tabular-nums; font-weight: 650; color: var(--accent); }
+  .meta { color: var(--muted); font-size: .85rem; margin: .35rem 0 .8rem; }
+  .legend { display: flex; gap: 1rem; flex-wrap: wrap; margin: 1rem 0; font-size: .9rem; color: var(--muted); }
+  .legend span { display: inline-flex; align-items: center; gap: .4rem; }
+  .swatch { width: 1rem; height: 1rem; border-radius: 2px; display: inline-block; }
+  .swatch.win { background: var(--win); }
+  .swatch.loss { background: var(--loss); }
+  footer { margin-top: 2rem; color: var(--muted); font-size: .85rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>BattleCON — сбалансированные сэты по 5 бойцов</h1>
+  <p class="lead">
+    Подборки из состава русской локализации, где <strong>внутри сэта</strong> у каждого бойца
+    винрейт против остальных четырёх равен <strong>50%&nbsp;(2 победы из 4)</strong>.
+    Использована матрица матчапов AI&nbsp;vs&nbsp;AI
+    (<code>yaronra/battlecon-ai</code>, free_for_all; ~1 партия на пару).
+  </p>
+  <div class="note">
+    Это не скалярный общий винрейт, а результат только внутренних матчапов сэта.
+    При одной партии на пару «50%» означает ровно 2 победы из 4 внутренних встреч
+    (структура «круга»: каждый бьёт двух и проигрывает двум).
+    Найдено 260 таких идеальных пятёрок; ниже — 8 с максимальным покрытием разных бойцов.
+  </div>
+  <div class="legend">
+    <span><i class="swatch win"></i> победа строки над столбцом</span>
+    <span><i class="swatch loss"></i> поражение</span>
+  </div>
+  <section class="set" id="set-1">
+    <h2 class="set-title">Сэт 1<span class="badge">круг 2–2</span></h2>
+    <p class="meta">Состав: Adjenna (Адженна), Alexian (Алексиан), Arec (Арек), Clinhyde (Клинхайд), Ottavia (Оттавия)</p>
+    <table>
+      <thead><tr><th class="name">Боец</th><th>RU</th><th>Коробка</th><th>W–L внутри сэта</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td class="name">Adjenna</td><td>Адженна</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Alexian</td><td>Алексиан</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Arec</td><td>Арек</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Clinhyde</td><td>Клинхайд</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Ottavia</td><td>Оттавия</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+      </tbody>
+    </table>
+    <h3 style="font-size:1rem;margin:1.1rem 0 .5rem;color:var(--muted);">Матрица матчапов (строка vs столбец)</h3>
+    <table>
+      <thead><tr><th class="name">＼</th><th>Adjenna</th><th>Alexian</th><th>Arec</th><th>Clinhyde</th><th>Ottavia</th><th>Σ побед</th></tr></thead>
+      <tbody>
+        <tr><th class="name">Adjenna<div class="ru">Адженна</div></th><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Alexian<div class="ru">Алексиан</div></th><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Arec<div class="ru">Арек</div></th><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Clinhyde<div class="ru">Клинхайд</div></th><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Ottavia<div class="ru">Оттавия</div></th><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="wr">2</td></tr>
+      </tbody>
+    </table>
+  </section>
+  <section class="set" id="set-2">
+    <h2 class="set-title">Сэт 2<span class="badge">круг 2–2</span></h2>
+    <p class="meta">Состав: Aria (Ария), Byron (Байрон), Kajia (Каджия), Lesandra (Лесандра), Oriana (Ориана)</p>
+    <table>
+      <thead><tr><th class="name">Боец</th><th>RU</th><th>Коробка</th><th>W–L внутри сэта</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td class="name">Aria</td><td>Ария</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Byron</td><td>Байрон</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Kajia</td><td>Каджия</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Lesandra</td><td>Лесандра</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Oriana</td><td>Ориана</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+      </tbody>
+    </table>
+    <h3 style="font-size:1rem;margin:1.1rem 0 .5rem;color:var(--muted);">Матрица матчапов (строка vs столбец)</h3>
+    <table>
+      <thead><tr><th class="name">＼</th><th>Aria</th><th>Byron</th><th>Kajia</th><th>Lesandra</th><th>Oriana</th><th>Σ побед</th></tr></thead>
+      <tbody>
+        <tr><th class="name">Aria<div class="ru">Ария</div></th><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Byron<div class="ru">Байрон</div></th><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Kajia<div class="ru">Каджия</div></th><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Lesandra<div class="ru">Лесандра</div></th><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Oriana<div class="ru">Ориана</div></th><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="wr">2</td></tr>
+      </tbody>
+    </table>
+  </section>
+  <section class="set" id="set-3">
+    <h2 class="set-title">Сэт 3<span class="badge">круг 2–2</span></h2>
+    <p class="meta">Состав: César (Сезар), Vovo (Воко), Mikhail (Михаил), Runika (Руника), Eligor (Элигор)</p>
+    <table>
+      <thead><tr><th class="name">Боец</th><th>RU</th><th>Коробка</th><th>W–L внутри сэта</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td class="name">César</td><td>Сезар</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Vovo</td><td>Воко</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Mikhail</td><td>Михаил</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Runika</td><td>Руника</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Eligor</td><td>Элигор</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+      </tbody>
+    </table>
+    <h3 style="font-size:1rem;margin:1.1rem 0 .5rem;color:var(--muted);">Матрица матчапов (строка vs столбец)</h3>
+    <table>
+      <thead><tr><th class="name">＼</th><th>César</th><th>Vovo</th><th>Mikhail</th><th>Runika</th><th>Eligor</th><th>Σ побед</th></tr></thead>
+      <tbody>
+        <tr><th class="name">César<div class="ru">Сезар</div></th><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Vovo<div class="ru">Воко</div></th><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Mikhail<div class="ru">Михаил</div></th><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Runika<div class="ru">Руника</div></th><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Eligor<div class="ru">Элигор</div></th><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="wr">2</td></tr>
+      </tbody>
+    </table>
+  </section>
+  <section class="set" id="set-4">
+    <h2 class="set-title">Сэт 4<span class="badge">круг 2–2</span></h2>
+    <p class="meta">Состав: Alexian (Алексиан), Karin (Карин), Marmelee (Мармелли), Tanis (Танис), Gerard (Жерар)</p>
+    <table>
+      <thead><tr><th class="name">Боец</th><th>RU</th><th>Коробка</th><th>W–L внутри сэта</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td class="name">Alexian</td><td>Алексиан</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Karin</td><td>Карин</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Marmelee</td><td>Мармелли</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Tanis</td><td>Танис</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Gerard</td><td>Жерар</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+      </tbody>
+    </table>
+    <h3 style="font-size:1rem;margin:1.1rem 0 .5rem;color:var(--muted);">Матрица матчапов (строка vs столбец)</h3>
+    <table>
+      <thead><tr><th class="name">＼</th><th>Alexian</th><th>Karin</th><th>Marmelee</th><th>Tanis</th><th>Gerard</th><th>Σ побед</th></tr></thead>
+      <tbody>
+        <tr><th class="name">Alexian<div class="ru">Алексиан</div></th><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Karin<div class="ru">Карин</div></th><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Marmelee<div class="ru">Мармелли</div></th><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Tanis<div class="ru">Танис</div></th><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Gerard<div class="ru">Жерар</div></th><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="wr">2</td></tr>
+      </tbody>
+    </table>
+  </section>
+  <section class="set" id="set-5">
+    <h2 class="set-title">Сэт 5<span class="badge">круг 2–2</span></h2>
+    <p class="meta">Состав: Adjenna (Адженна), Rexan (Рексан), Arec (Арек), Aria (Ария), Shekhtur (Шектур)</p>
+    <table>
+      <thead><tr><th class="name">Боец</th><th>RU</th><th>Коробка</th><th>W–L внутри сэта</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td class="name">Adjenna</td><td>Адженна</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Rexan</td><td>Рексан</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Arec</td><td>Арек</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Aria</td><td>Ария</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Shekhtur</td><td>Шектур</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+      </tbody>
+    </table>
+    <h3 style="font-size:1rem;margin:1.1rem 0 .5rem;color:var(--muted);">Матрица матчапов (строка vs столбец)</h3>
+    <table>
+      <thead><tr><th class="name">＼</th><th>Adjenna</th><th>Rexan</th><th>Arec</th><th>Aria</th><th>Shekhtur</th><th>Σ побед</th></tr></thead>
+      <tbody>
+        <tr><th class="name">Adjenna<div class="ru">Адженна</div></th><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Rexan<div class="ru">Рексан</div></th><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Arec<div class="ru">Арек</div></th><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Aria<div class="ru">Ария</div></th><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Shekhtur<div class="ru">Шектур</div></th><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="wr">2</td></tr>
+      </tbody>
+    </table>
+  </section>
+  <section class="set" id="set-6">
+    <h2 class="set-title">Сэт 6<span class="badge">круг 2–2</span></h2>
+    <p class="meta">Состав: César (Сезар), Lymn (Лимн), Kajia (Каджия), Marmelee (Мармелли), Gerard (Жерар)</p>
+    <table>
+      <thead><tr><th class="name">Боец</th><th>RU</th><th>Коробка</th><th>W–L внутри сэта</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td class="name">César</td><td>Сезар</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Lymn</td><td>Лимн</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Kajia</td><td>Каджия</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Marmelee</td><td>Мармелли</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Gerard</td><td>Жерар</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+      </tbody>
+    </table>
+    <h3 style="font-size:1rem;margin:1.1rem 0 .5rem;color:var(--muted);">Матрица матчапов (строка vs столбец)</h3>
+    <table>
+      <thead><tr><th class="name">＼</th><th>César</th><th>Lymn</th><th>Kajia</th><th>Marmelee</th><th>Gerard</th><th>Σ побед</th></tr></thead>
+      <tbody>
+        <tr><th class="name">César<div class="ru">Сезар</div></th><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Lymn<div class="ru">Лимн</div></th><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Kajia<div class="ru">Каджия</div></th><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Marmelee<div class="ru">Мармелли</div></th><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Gerard<div class="ru">Жерар</div></th><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="wr">2</td></tr>
+      </tbody>
+    </table>
+  </section>
+  <section class="set" id="set-7">
+    <h2 class="set-title">Сэт 7<span class="badge">круг 2–2</span></h2>
+    <p class="meta">Состав: Byron (Байрон), Lesandra (Лесандра), Runika (Руника), Karin (Карин), Clinhyde (Клинхайд)</p>
+    <table>
+      <thead><tr><th class="name">Боец</th><th>RU</th><th>Коробка</th><th>W–L внутри сэта</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td class="name">Byron</td><td>Байрон</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Lesandra</td><td>Лесандра</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Runika</td><td>Руника</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Karin</td><td>Карин</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Clinhyde</td><td>Клинхайд</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+      </tbody>
+    </table>
+    <h3 style="font-size:1rem;margin:1.1rem 0 .5rem;color:var(--muted);">Матрица матчапов (строка vs столбец)</h3>
+    <table>
+      <thead><tr><th class="name">＼</th><th>Byron</th><th>Lesandra</th><th>Runika</th><th>Karin</th><th>Clinhyde</th><th>Σ побед</th></tr></thead>
+      <tbody>
+        <tr><th class="name">Byron<div class="ru">Байрон</div></th><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Lesandra<div class="ru">Лесандра</div></th><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Runika<div class="ru">Руника</div></th><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Karin<div class="ru">Карин</div></th><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Clinhyde<div class="ru">Клинхайд</div></th><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="wr">2</td></tr>
+      </tbody>
+    </table>
+  </section>
+  <section class="set" id="set-8">
+    <h2 class="set-title">Сэт 8<span class="badge">круг 2–2</span></h2>
+    <p class="meta">Состав: Eligor (Элигор), Karin (Карин), Shekhtur (Шектур), Mikhail (Михаил), Rexan (Рексан)</p>
+    <table>
+      <thead><tr><th class="name">Боец</th><th>RU</th><th>Коробка</th><th>W–L внутри сэта</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td class="name">Eligor</td><td>Элигор</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Karin</td><td>Карин</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Shekhtur</td><td>Шектур</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Mikhail</td><td>Михаил</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+        <tr><td class="name">Rexan</td><td>Рексан</td><td>Погибель Индин</td><td>2–2</td><td class="wr">50%</td></tr>
+      </tbody>
+    </table>
+    <h3 style="font-size:1rem;margin:1.1rem 0 .5rem;color:var(--muted);">Матрица матчапов (строка vs столбец)</h3>
+    <table>
+      <thead><tr><th class="name">＼</th><th>Eligor</th><th>Karin</th><th>Shekhtur</th><th>Mikhail</th><th>Rexan</th><th>Σ побед</th></tr></thead>
+      <tbody>
+        <tr><th class="name">Eligor<div class="ru">Элигор</div></th><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Karin<div class="ru">Карин</div></th><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="wr">2</td></tr>
+        <tr><th class="name">Shekhtur<div class="ru">Шектур</div></th><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Mikhail<div class="ru">Михаил</div></th><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="win">W</td><td class="wr">2</td></tr>
+        <tr><th class="name">Rexan<div class="ru">Рексан</div></th><td class="win">W</td><td class="win">W</td><td class="loss">L</td><td class="loss">L</td><td class="diag">—</td><td class="wr">2</td></tr>
+      </tbody>
+    </table>
+  </section>
+  <footer>
+    Источник матчапов: GitHub yaronra/battlecon-ai → logs/free_for_all.
+    Фильтр: персонажи русской локализации GaGa (Погибель / Странники / Испытания), для которых есть AI-данные.
+    Странники и большинство Испытаний в симуляции отсутствуют — в сэты не входят.
+  </footer>
+</main>
+</body>
+</html>

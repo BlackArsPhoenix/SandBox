@@ -89,3 +89,10 @@ AI-данные есть у **22** из 52; у остальных персона
 - Состав RU: GaGa Games (Погибель / Странники / Испытания); roster Devastation Remastered и Trials Remastered (Level 99); Wanderers of Indines.
 - AI winrates: https://github.com/yaronra/battlecon-ai `logs/free_for_all`
 - Локальные заметки сообщества: Tesera (dizastra) — Руника ~87%, Мармелли ~30% (не глобальная статистика).
+
+## Сбалансированные сэты по 5 бойцов
+
+Файл [`balanced-sets-5.html`](./balanced-sets-5.html) — восемь пятёрок, где **внутри сэта** у каждого бойца winrate против остальных равен **50% (2–2)**.
+
+Также: `balanced-sets-5.csv`, `balanced-sets-5.json`.
+
