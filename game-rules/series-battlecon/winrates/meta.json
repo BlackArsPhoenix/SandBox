@@ -1,0 +1,31 @@
+{
+  "russian_roster_count": 52,
+  "with_ai_data": 22,
+  "without_ai_data": 30,
+  "ai_source": "https://github.com/yaronra/battlecon-ai/tree/master/logs/free_for_all",
+  "name_mapping": {
+    "Adjenna": "adjenna",
+    "Alexian": "alexian",
+    "Arec": "arec",
+    "Aria": "aria",
+    "Byron": "byron",
+    "César": "cesar",
+    "Clinhyde": "clinhyde",
+    "Eligor": "eligor",
+    "Kajia": "kajia",
+    "Karin": "karin",
+    "Lesandra": "lesandra",
+    "Lymn": "lymn",
+    "Marmelee": "marmelee",
+    "Mikhail": "mikhail",
+    "Oriana": "oriana",
+    "Ottavia": "ottavia",
+    "Rexan": "rexan",
+    "Runika": "runika",
+    "Shekhtur": "shekhtur",
+    "Tanis": "tanis",
+    "Vovo": "voco",
+    "Gerard": "gerard"
+  },
+  "note": "No public human global winrate table found; AI sim used as downloadable quantitative proxy."
+}
