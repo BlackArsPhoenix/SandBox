@@ -1,0 +1,217 @@
+[
+  {
+    "pair_id": 1,
+    "a": {
+      "en": "Adjenna",
+      "ru": "Адженна",
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "b": {
+      "en": "Aria",
+      "ru": "Ария",
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "games": 4,
+    "conditions": [
+      "P2 beta bases",
+      "both beta bases",
+      "standard"
+    ],
+    "results": [
+      {
+        "winner": "Aria",
+        "condition": "standard",
+        "source": "free_for_all"
+      },
+      {
+        "winner": "Adjenna",
+        "condition": "P2 beta bases",
+        "source": "alpha_vs_beta"
+      },
+      {
+        "winner": "Aria",
+        "condition": "P2 beta bases",
+        "source": "alpha_vs_beta"
+      },
+      {
+        "winner": "Adjenna",
+        "condition": "both beta bases",
+        "source": "beta"
+      }
+    ]
+  },
+  {
+    "pair_id": 2,
+    "a": {
+      "en": "Alexian",
+      "ru": "Алексиан",
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "b": {
+      "en": "César",
+      "ru": "Сезар",
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "games": 4,
+    "conditions": [
+      "P2 beta bases",
+      "both beta bases",
+      "standard"
+    ],
+    "results": [
+      {
+        "winner": "César",
+        "condition": "standard",
+        "source": "free_for_all"
+      },
+      {
+        "winner": "César",
+        "condition": "P2 beta bases",
+        "source": "alpha_vs_beta"
+      },
+      {
+        "winner": "Alexian",
+        "condition": "P2 beta bases",
+        "source": "alpha_vs_beta"
+      },
+      {
+        "winner": "Alexian",
+        "condition": "both beta bases",
+        "source": "beta"
+      }
+    ]
+  },
+  {
+    "pair_id": 3,
+    "a": {
+      "en": "Byron",
+      "ru": "Байрон",
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "b": {
+      "en": "Kajia",
+      "ru": "Каджия",
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "games": 4,
+    "conditions": [
+      "P2 beta bases",
+      "both beta bases",
+      "standard"
+    ],
+    "results": [
+      {
+        "winner": "Byron",
+        "condition": "standard",
+        "source": "free_for_all"
+      },
+      {
+        "winner": "Kajia",
+        "condition": "P2 beta bases",
+        "source": "alpha_vs_beta"
+      },
+      {
+        "winner": "Kajia",
+        "condition": "P2 beta bases",
+        "source": "alpha_vs_beta"
+      },
+      {
+        "winner": "Byron",
+        "condition": "both beta bases",
+        "source": "beta"
+      }
+    ]
+  },
+  {
+    "pair_id": 4,
+    "a": {
+      "en": "Clinhyde",
+      "ru": "Клинхайд",
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "b": {
+      "en": "Eligor",
+      "ru": "Элигор",
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "games": 4,
+    "conditions": [
+      "P2 beta bases",
+      "both beta bases",
+      "standard"
+    ],
+    "results": [
+      {
+        "winner": "Clinhyde",
+        "condition": "standard",
+        "source": "free_for_all"
+      },
+      {
+        "winner": "Eligor",
+        "condition": "P2 beta bases",
+        "source": "alpha_vs_beta"
+      },
+      {
+        "winner": "Clinhyde",
+        "condition": "P2 beta bases",
+        "source": "alpha_vs_beta"
+      },
+      {
+        "winner": "Eligor",
+        "condition": "both beta bases",
+        "source": "beta"
+      }
+    ]
+  },
+  {
+    "pair_id": 5,
+    "a": {
+      "en": "Karin",
+      "ru": "Карин",
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "b": {
+      "en": "Rexan",
+      "ru": "Рексан",
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "games": 4,
+    "conditions": [
+      "P2 beta bases",
+      "both beta bases",
+      "standard"
+    ],
+    "results": [
+      {
+        "winner": "Rexan",
+        "condition": "standard",
+        "source": "free_for_all"
+      },
+      {
+        "winner": "Rexan",
+        "condition": "P2 beta bases",
+        "source": "alpha_vs_beta"
+      },
+      {
+        "winner": "Karin",
+        "condition": "P2 beta bases",
+        "source": "alpha_vs_beta"
+      },
+      {
+        "winner": "Karin",
+        "condition": "both beta bases",
+        "source": "beta"
+      }
+    ]
+  }
+]
