@@ -96,3 +96,11 @@ AI-данные есть у **22** из 52; у остальных персона
 
 Также: `balanced-sets-5.csv`, `balanced-sets-5.json`.
 
+## 5 пар с WR 40–60% (макс. выборка)
+
+[`balanced-pairs-5.html`](./balanced-pairs-5.html) — пять пар без повторов бойцов, взаимный winrate 40–60%, максимум доступных партий (4 на пару после агрегации логов). Также `balanced-pairs-5.csv`, `balanced-pairs-5.json`.
+
+## Михаил vs Ориана (20 симуляций)
+
+[`mikhail-vs-oriana-20.html`](./mikhail-vs-oriana-20.html) — 20 AI-партий: победы, число битов, HP победителя. Также CSV/JSON.
+

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BattleCON — 5 сбалансированных пар (макс. выборка)</title>
+<style>
+  :root {
+    --bg: #1a1c22; --panel: #242733; --text: #e8e6e3; --muted: #9a968c;
+    --line: #3a3d4a; --win: #2d6a4f; --win-text: #b7e4c7; --accent: #c4a35a; --head: #2e3140;
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family:"Segoe UI","PT Sans",system-ui,sans-serif; background:var(--bg); color:var(--text); line-height:1.45; }
+  main { max-width: 920px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+  h1 { font-size:1.7rem; color:var(--accent); margin:0 0 .5rem; }
+  h2 { font-size:1.2rem; margin:0 0 .4rem; }
+  h3 { font-size:1rem; color:var(--muted); margin:1rem 0 .4rem; font-weight:600; }
+  .lead { color:var(--muted); max-width:70ch; }
+  .note { background:var(--panel); border-left:3px solid var(--accent); padding:.75rem 1rem; margin:1rem 0 1.5rem; color:var(--muted); font-size:.95rem; }
+  .pair { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:1rem 1.1rem 1.25rem; margin:0 0 1.5rem; }
+  .meta { color:var(--muted); font-size:.9rem; margin:.2rem 0 .8rem; }
+  table { border-collapse:collapse; width:100%; font-size:.92rem; margin:.35rem 0; }
+  th, td { border:1px solid var(--line); padding:.4rem .55rem; text-align:center; }
+  th { background:var(--head); }
+  td:first-child, th:first-child { text-align:left; }
+  .wr { font-variant-numeric:tabular-nums; font-weight:650; color:var(--accent); }
+  .win { background:var(--win); color:var(--win-text); font-weight:600; }
+  a { color:var(--accent); }
+  footer { margin-top:2rem; color:var(--muted); font-size:.85rem; }
+  .overview { margin-bottom:2rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>5 пар с винрейтом 40–60%</h1>
+  <p class="lead">
+    Пары из русской локализации, где взаимный winrate в диапазоне <strong>40–60%</strong>,
+    отобранные по <strong>максимальному числу партий</strong> среди доступных AI-логов
+    (free_for_all + alpha_vs_beta + beta). Бойцы в разных парах не повторяются.
+  </p>
+  <div class="note">
+    <strong>Ограничение выборки:</strong> в датасете yaronra/battlecon-ai на одну пару
+    приходится не больше <strong>4 партий</strong> (разные условия баз: standard / beta).
+    Среди RU-бойцов все пары в коридоре 40–60% при 4 играх имеют счёт ровно <strong>2–2 (50%)</strong>.
+    Большей публичной выборки матчапов не найдено.
+  </div>
+  <h2>Сводка</h2>
+
+  <table class="overview">
+    <thead><tr><th>#</th><th>Боец A</th><th>Боец B</th><th>Счёт</th><th>Игр</th><th>WR A</th><th>WR B</th></tr></thead>
+    <tbody>
+      <tr><td><a href="#pair-1">1</a></td><td>Adjenna (Адженна)</td><td>Aria (Ария)</td><td>2–2</td><td><strong>4</strong></td><td class="wr">50.0%</td><td class="wr">50.0%</td></tr>
+      <tr><td><a href="#pair-2">2</a></td><td>Alexian (Алексиан)</td><td>César (Сезар)</td><td>2–2</td><td><strong>4</strong></td><td class="wr">50.0%</td><td class="wr">50.0%</td></tr>
+      <tr><td><a href="#pair-3">3</a></td><td>Byron (Байрон)</td><td>Kajia (Каджия)</td><td>2–2</td><td><strong>4</strong></td><td class="wr">50.0%</td><td class="wr">50.0%</td></tr>
+      <tr><td><a href="#pair-4">4</a></td><td>Clinhyde (Клинхайд)</td><td>Eligor (Элигор)</td><td>2–2</td><td><strong>4</strong></td><td class="wr">50.0%</td><td class="wr">50.0%</td></tr>
+      <tr><td><a href="#pair-5">5</a></td><td>Karin (Карин)</td><td>Rexan (Рексан)</td><td>2–2</td><td><strong>4</strong></td><td class="wr">50.0%</td><td class="wr">50.0%</td></tr>
+    </tbody>
+  </table>
+
+
+  <section class="pair" id="pair-1">
+    <h2>Пара 1: Adjenna vs Aria</h2>
+    <p class="meta">Адженна — Ария · Погибель Индин / Погибель Индин</p>
+    <table class="summary">
+      <thead><tr><th>Боец</th><th>RU</th><th>Победы</th><th>Поражения</th><th>Игр</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td>Adjenna</td><td>Адженна</td><td>2</td><td>2</td><td>4</td><td class="wr">50.0%</td></tr>
+        <tr><td>Aria</td><td>Ария</td><td>2</td><td>2</td><td>4</td><td class="wr">50.0%</td></tr>
+      </tbody>
+    </table>
+    <h3>Все партии</h3>
+    <table class="games">
+      <thead><tr><th>#</th><th>Условия</th><th>Источник логов</th><th>Победитель</th></tr></thead>
+      <tbody>
+<tr><td>1</td><td>standard</td><td>free_for_all</td><td class="win">Aria</td></tr>
+<tr><td>2</td><td>P2 beta bases</td><td>alpha_vs_beta</td><td class="win">Adjenna</td></tr>
+<tr><td>3</td><td>P2 beta bases</td><td>alpha_vs_beta</td><td class="win">Aria</td></tr>
+<tr><td>4</td><td>both beta bases</td><td>beta</td><td class="win">Adjenna</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="pair" id="pair-2">
+    <h2>Пара 2: Alexian vs César</h2>
+    <p class="meta">Алексиан — Сезар · Погибель Индин / Погибель Индин</p>
+    <table class="summary">
+      <thead><tr><th>Боец</th><th>RU</th><th>Победы</th><th>Поражения</th><th>Игр</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td>Alexian</td><td>Алексиан</td><td>2</td><td>2</td><td>4</td><td class="wr">50.0%</td></tr>
+        <tr><td>César</td><td>Сезар</td><td>2</td><td>2</td><td>4</td><td class="wr">50.0%</td></tr>
+      </tbody>
+    </table>
+    <h3>Все партии</h3>
+    <table class="games">
+      <thead><tr><th>#</th><th>Условия</th><th>Источник логов</th><th>Победитель</th></tr></thead>
+      <tbody>
+<tr><td>1</td><td>standard</td><td>free_for_all</td><td class="win">César</td></tr>
+<tr><td>2</td><td>P2 beta bases</td><td>alpha_vs_beta</td><td class="win">César</td></tr>
+<tr><td>3</td><td>P2 beta bases</td><td>alpha_vs_beta</td><td class="win">Alexian</td></tr>
+<tr><td>4</td><td>both beta bases</td><td>beta</td><td class="win">Alexian</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="pair" id="pair-3">
+    <h2>Пара 3: Byron vs Kajia</h2>
+    <p class="meta">Байрон — Каджия · Погибель Индин / Погибель Индин</p>
+    <table class="summary">
+      <thead><tr><th>Боец</th><th>RU</th><th>Победы</th><th>Поражения</th><th>Игр</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td>Byron</td><td>Байрон</td><td>2</td><td>2</td><td>4</td><td class="wr">50.0%</td></tr>
+        <tr><td>Kajia</td><td>Каджия</td><td>2</td><td>2</td><td>4</td><td class="wr">50.0%</td></tr>
+      </tbody>
+    </table>
+    <h3>Все партии</h3>
+    <table class="games">
+      <thead><tr><th>#</th><th>Условия</th><th>Источник логов</th><th>Победитель</th></tr></thead>
+      <tbody>
+<tr><td>1</td><td>standard</td><td>free_for_all</td><td class="win">Byron</td></tr>
+<tr><td>2</td><td>P2 beta bases</td><td>alpha_vs_beta</td><td class="win">Kajia</td></tr>
+<tr><td>3</td><td>P2 beta bases</td><td>alpha_vs_beta</td><td class="win">Kajia</td></tr>
+<tr><td>4</td><td>both beta bases</td><td>beta</td><td class="win">Byron</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="pair" id="pair-4">
+    <h2>Пара 4: Clinhyde vs Eligor</h2>
+    <p class="meta">Клинхайд — Элигор · Погибель Индин / Погибель Индин</p>
+    <table class="summary">
+      <thead><tr><th>Боец</th><th>RU</th><th>Победы</th><th>Поражения</th><th>Игр</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td>Clinhyde</td><td>Клинхайд</td><td>2</td><td>2</td><td>4</td><td class="wr">50.0%</td></tr>
+        <tr><td>Eligor</td><td>Элигор</td><td>2</td><td>2</td><td>4</td><td class="wr">50.0%</td></tr>
+      </tbody>
+    </table>
+    <h3>Все партии</h3>
+    <table class="games">
+      <thead><tr><th>#</th><th>Условия</th><th>Источник логов</th><th>Победитель</th></tr></thead>
+      <tbody>
+<tr><td>1</td><td>standard</td><td>free_for_all</td><td class="win">Clinhyde</td></tr>
+<tr><td>2</td><td>P2 beta bases</td><td>alpha_vs_beta</td><td class="win">Eligor</td></tr>
+<tr><td>3</td><td>P2 beta bases</td><td>alpha_vs_beta</td><td class="win">Clinhyde</td></tr>
+<tr><td>4</td><td>both beta bases</td><td>beta</td><td class="win">Eligor</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="pair" id="pair-5">
+    <h2>Пара 5: Karin vs Rexan</h2>
+    <p class="meta">Карин — Рексан · Погибель Индин / Погибель Индин</p>
+    <table class="summary">
+      <thead><tr><th>Боец</th><th>RU</th><th>Победы</th><th>Поражения</th><th>Игр</th><th>Winrate</th></tr></thead>
+      <tbody>
+        <tr><td>Karin</td><td>Карин</td><td>2</td><td>2</td><td>4</td><td class="wr">50.0%</td></tr>
+        <tr><td>Rexan</td><td>Рексан</td><td>2</td><td>2</td><td>4</td><td class="wr">50.0%</td></tr>
+      </tbody>
+    </table>
+    <h3>Все партии</h3>
+    <table class="games">
+      <thead><tr><th>#</th><th>Условия</th><th>Источник логов</th><th>Победитель</th></tr></thead>
+      <tbody>
+<tr><td>1</td><td>standard</td><td>free_for_all</td><td class="win">Rexan</td></tr>
+<tr><td>2</td><td>P2 beta bases</td><td>alpha_vs_beta</td><td class="win">Rexan</td></tr>
+<tr><td>3</td><td>P2 beta bases</td><td>alpha_vs_beta</td><td class="win">Karin</td></tr>
+<tr><td>4</td><td>both beta bases</td><td>beta</td><td class="win">Karin</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <footer>
+    Источник: GitHub yaronra/battlecon-ai — каталоги logs/free_for_all, logs/alpha_vs_beta, logs/beta.
+    Фильтр: персонажи русской локализации GaGa с пересечением AI-логов.
+  </footer>
+</main>
+</body>
+</html>
