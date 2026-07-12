@@ -1,0 +1,212 @@
+[
+  {
+    "role_path": "friends-and-foes/tainted-abomination/01-fiendish-flesh-golem-schlossbauer.stl",
+    "shared": "../../_shared-stls/0f68b06fc0ec-01-fiendish-flesh-golem-schlossbauer.stl",
+    "bytes": 22450184
+  },
+  {
+    "role_path": "friends-and-foes/tainted-abomination/02-flesh-golem-mz4250.stl",
+    "shared": "../../_shared-stls/79eaaf50cca0-02-flesh-golem-mz4250.stl",
+    "bytes": 35891584
+  },
+  {
+    "role_path": "friends-and-foes/tainted-abomination/03-zombie-ogre-mz4250.stl",
+    "shared": "../../_shared-stls/66c998e07b18-03-zombie-ogre-mz4250.stl",
+    "bytes": 46610184
+  },
+  {
+    "role_path": "friends-and-foes/tainted-walkers/01-tanarukk-mz4250.stl",
+    "shared": "../../_shared-stls/71f2150a3d69-01-tanarukk-mz4250.stl",
+    "bytes": 53990684
+  },
+  {
+    "role_path": "friends-and-foes/tainted-walkers/02-brutal-orc-spiked-starforge.stl",
+    "shared": "../../_shared-stls/5fbe4fba33f0-02-brutal-orc-spiked-starforge.stl",
+    "bytes": 10776384
+  },
+  {
+    "role_path": "friends-and-foes/tainted-walkers/03-orc-dead-body-mz4250.stl",
+    "shared": "../../_shared-stls/1f0ffd41d026-03-orc-dead-body-mz4250.stl",
+    "bytes": 12308984
+  },
+  {
+    "role_path": "green-horde/goblin-runners/01-undead-goblin-triple-g.stl",
+    "shared": "../../_shared-stls/44412fd16935-01-undead-goblin-triple-g.stl",
+    "bytes": 15853184
+  },
+  {
+    "role_path": "green-horde/goblin-runners/02-zombie-goblin-helpman.stl",
+    "shared": "../../_shared-stls/15f29fff1cf3-02-zombie-goblin-helpman.stl",
+    "bytes": 41684384
+  },
+  {
+    "role_path": "green-horde/goblin-runners/03-cunning-goblin-starforge.stl",
+    "shared": "../../_shared-stls/4dd4f7aeed93-03-cunning-goblin-starforge.stl",
+    "bytes": 17965984
+  },
+  {
+    "role_path": "green-horde/goblin-runners/04-xvart-mz4250.stl",
+    "shared": "../../_shared-stls/013a054d6e04-04-xvart-mz4250.stl",
+    "bytes": 19730484
+  },
+  {
+    "role_path": "green-horde/goblin-runners/05-horrible-zombie-goblin-ainon.stl",
+    "shared": "../../_shared-stls/9098b7e288b2-05-horrible-zombie-goblin-ainon.stl",
+    "bytes": 1995584
+  },
+  {
+    "role_path": "green-horde/orc-abomination/01-zombie-ogre-mz4250.stl",
+    "shared": "../../_shared-stls/66c998e07b18-03-zombie-ogre-mz4250.stl",
+    "bytes": 46610184
+  },
+  {
+    "role_path": "green-horde/orc-abomination/02-flesh-golem-mz4250.stl",
+    "shared": "../../_shared-stls/79eaaf50cca0-02-flesh-golem-mz4250.stl",
+    "bytes": 35891584
+  },
+  {
+    "role_path": "green-horde/orc-abomination/03-fiendish-flesh-golem-schlossbauer.stl",
+    "shared": "../../_shared-stls/0f68b06fc0ec-01-fiendish-flesh-golem-schlossbauer.stl",
+    "bytes": 22450184
+  },
+  {
+    "role_path": "green-horde/orc-fatty/01-orc-muscle-ogre-wild190.stl",
+    "shared": "../../_shared-stls/7bb161101ea8-01-orc-muscle-ogre-wild190.stl",
+    "bytes": 1815084
+  },
+  {
+    "role_path": "green-horde/orc-fatty/02-ogre-zombie-printed-encounter.stl",
+    "shared": "../../_shared-stls/a568f74f5165-03-ogre-zombie-printed-encounter.stl",
+    "bytes": 15000684
+  },
+  {
+    "role_path": "green-horde/orc-necromancer/01-orc-bonefire-shaman-viper-32mm.stl",
+    "shared": "../../_shared-stls/d07ed589db61-01-orc-bonefire-shaman-viper-32mm.stl",
+    "bytes": 30678684
+  },
+  {
+    "role_path": "green-horde/orc-necromancer/02-orc-mage-vogman.stl",
+    "shared": "../../_shared-stls/86639b83e518-02-orc-mage-vogman.stl",
+    "bytes": 14578784
+  },
+  {
+    "role_path": "green-horde/orc-necromancer/03-skull-necromancer-belbuilds.stl",
+    "shared": "../../_shared-stls/da8ee69a7602-03-skull-necromancer-belbuilds.stl",
+    "bytes": 98051934
+  },
+  {
+    "role_path": "green-horde/orc-walkers/01-orc-dead-body-mz4250.stl",
+    "shared": "../../_shared-stls/1f0ffd41d026-03-orc-dead-body-mz4250.stl",
+    "bytes": 12308984
+  },
+  {
+    "role_path": "green-horde/orc-walkers/02-orc-warrior-stigern.stl",
+    "shared": "../../_shared-stls/c8a0796ea42c-02-orc-warrior-stigern.stl",
+    "bytes": 14955184
+  },
+  {
+    "role_path": "green-horde/orc-walkers/03-orc-berserker-adventvr.3mf",
+    "shared": "../../_shared-stls/4e380dd22601-03-orc-berserker-adventvr.3mf",
+    "bytes": 14393483
+  },
+  {
+    "role_path": "green-horde/orc-walkers/04-orc-berserker-axe-umarty.stl",
+    "shared": "../../_shared-stls/9d0f5b8171e8-04-orc-berserker-axe-umarty.stl",
+    "bytes": 17474984
+  },
+  {
+    "role_path": "green-horde/orc-walkers/05-brutal-orc-spiked-starforge.stl",
+    "shared": "../../_shared-stls/5fbe4fba33f0-02-brutal-orc-spiked-starforge.stl",
+    "bytes": 10776384
+  },
+  {
+    "role_path": "green-horde/orc-walkers/06-orc-berserker-umarty.stl",
+    "shared": "../../_shared-stls/ae3a550d282e-03-orc-berserker-umarty.stl",
+    "bytes": 10000084
+  },
+  {
+    "role_path": "green-horde/orc-walkers/vogland-au-naturel/head.stl",
+    "shared": "../../../_shared-stls/747c10b11ba6-head.stl",
+    "bytes": 14812284
+  },
+  {
+    "role_path": "green-horde/orc-walkers/vogland-au-naturel/legs.stl",
+    "shared": "../../../_shared-stls/60138eec7fb0-legs.stl",
+    "bytes": 7892684
+  },
+  {
+    "role_path": "green-horde/orc-walkers/vogland-au-naturel/torso.stl",
+    "shared": "../../../_shared-stls/a7f624f62ab6-torso.stl",
+    "bytes": 7499684
+  },
+  {
+    "role_path": "green-horde/orc-walkers/vogland-berserker/base.stl",
+    "shared": "../../../_shared-stls/d3e627574afc-base.stl",
+    "bytes": 274484
+  },
+  {
+    "role_path": "green-horde/orc-walkers/vogland-berserker/body.stl",
+    "shared": "../../../_shared-stls/328c6dd1a91f-body.stl",
+    "bytes": 14590784
+  },
+  {
+    "role_path": "green-horde/orc-walkers/vogland-berserker/hammer.stl",
+    "shared": "../../../_shared-stls/c97ba892ec89-hammer.stl",
+    "bytes": 13633084
+  },
+  {
+    "role_path": "green-horde/orc-walkers/vogland-berserker/head.stl",
+    "shared": "../../../_shared-stls/1358a357769e-head.stl",
+    "bytes": 14883384
+  },
+  {
+    "role_path": "green-horde/orc-walkers/vogland-hookaxe-dregnar/base.stl",
+    "shared": "../../../_shared-stls/1bf8d4722b37-base.stl",
+    "bytes": 879184
+  },
+  {
+    "role_path": "green-horde/orc-walkers/vogland-hookaxe-dregnar/body.stl",
+    "shared": "../../../_shared-stls/6523b756e882-body.stl",
+    "bytes": 15176284
+  },
+  {
+    "role_path": "green-horde/orc-walkers/vogland-hookaxe-dregnar/head.stl",
+    "shared": "../../../_shared-stls/34c6aec0a5df-head.stl",
+    "bytes": 14999684
+  },
+  {
+    "role_path": "wulfsburg/wolfbomination/01-zombie-ogre-mz4250.stl",
+    "shared": "../../_shared-stls/66c998e07b18-03-zombie-ogre-mz4250.stl",
+    "bytes": 46610184
+  },
+  {
+    "role_path": "wulfsburg/wolfbomination/02-fiendish-flesh-golem-schlossbauer.stl",
+    "shared": "../../_shared-stls/0f68b06fc0ec-01-fiendish-flesh-golem-schlossbauer.stl",
+    "bytes": 22450184
+  },
+  {
+    "role_path": "wulfsburg/wolfbomination/03-ogre-zombie-printed-encounter.stl",
+    "shared": "../../_shared-stls/a568f74f5165-03-ogre-zombie-printed-encounter.stl",
+    "bytes": 15000684
+  },
+  {
+    "role_path": "wulfsburg/wolfz/01-zombie-wolf-schlossbauer.stl",
+    "shared": "../../_shared-stls/69709a70e6e5-01-zombie-wolf-schlossbauer.stl",
+    "bytes": 16499484
+  },
+  {
+    "role_path": "wulfsburg/wolfz/02-hellhound-macroglossum.stl",
+    "shared": "../../_shared-stls/08b18e32fc19-02-hellhound-macroglossum.stl",
+    "bytes": 6262984
+  },
+  {
+    "role_path": "wulfsburg/wolfz/03-undead-wolf-adventvr.3mf",
+    "shared": "../../_shared-stls/9e14afeb56f9-03-undead-wolf-adventvr.3mf",
+    "bytes": 13770049
+  },
+  {
+    "role_path": "wulfsburg/wolfz/04-cerberus-zombie-dog-seasonwarez.stl",
+    "shared": "../../_shared-stls/8adfb7934daf-04-cerberus-zombie-dog-seasonwarez.stl",
+    "bytes": 1926184
+  }
+]
