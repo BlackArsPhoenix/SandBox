@@ -27,12 +27,12 @@
 
 ## Важно
 
-- Официальных STL от CMON в открытом доступе нет.
-- Здесь собраны **бесплатные прокси с Printables**, максимально близкие по силуэту (undead orc / zombie goblin / zombie wolf / flesh golem и т.п.), а не сканы оригинальных фигурок.
-- Файлы лежат в `_shared-stls/`; в ролевых папках — симлинки.
-- Типичный состав моба в MD2: **до 6 minions + 1 leader**. Печатайте несколько копий walker/runner sculpts.
-- Масштаб: ориентир **28–32 mm heroic**. Wolfbomination / Abomination — увеличьте крупный прокси (ogre / flesh golem) примерно до **150–200%**.
-- Лицензии в основном CC-BY / CC-BY-NC / CC-BY-SA / Standard Digital File License — только личное использование, атрибуция авторам (см. `_sources/SOURCES.md`).
+- Официальных STL от CMON нет.
+- **Бесплатных фан-скульптов, похожих на оригинальные фигурки с карт/коробки, в открытом доступе не найдено** (BGG, Cults, Steam TTS, Tesera, Printables). Подробный отчёт: [`_sources/LOOKALIKE-RESEARCH.md`](_sources/LOOKALIKE-RESEARCH.md).
+- То, что лежит в `_shared-stls/`, — **временные generic-прокси** (не совпадают с позами CMON). Для визуального совпадения с картами кроссовера они **не подходят**.
+- Ближе всего к оригиналу (платно): [ciccioneroladro](https://cults3d.com/en/users/ciccioneroladro/3d-models) (KS exclusives “based on original”) и [MiChan](https://cults3d.com/en/users/MiChan/3d-models) (Zombicide-inspired / возможен заказ).
+- Файлы в ролевых папках — симлинки на `_shared-stls/`.
+- Типичный моб MD2: **до 6 minions + 1 leader**.
 
 ## Рекомендуемый приоритет печати
 
