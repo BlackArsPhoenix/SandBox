@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Михаил vs Ориана — 20 AI-симуляций</title>
+<style>
+  :root {
+    --bg:#1a1c22; --panel:#242733; --text:#e8e6e3; --muted:#9a968c;
+    --line:#3a3d4a; --accent:#c4a35a; --head:#2e3140;
+    --m:#3d5a80; --o:#9b2226; --win:#2d6a4f;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:"Segoe UI","PT Sans",system-ui,sans-serif; background:var(--bg); color:var(--text); line-height:1.45; }
+  main { max-width:980px; margin:0 auto; padding:2rem 1.25rem 4rem; }
+  h1 { color:var(--accent); font-size:1.6rem; margin:0 0 .4rem; }
+  h2 { font-size:1.15rem; margin:1.75rem 0 .6rem; border-bottom:1px solid var(--line); padding-bottom:.3rem; }
+  .lead,.note { color:var(--muted); }
+  .note { background:var(--panel); border-left:3px solid var(--accent); padding:.75rem 1rem; margin:1rem 0 1.5rem; }
+  table { border-collapse:collapse; width:100%; font-size:.92rem; margin:.4rem 0 1rem; }
+  th,td { border:1px solid var(--line); padding:.4rem .55rem; text-align:center; }
+  th { background:var(--head); }
+  td:first-child, th:first-child { text-align:left; }
+  .wr { color:var(--accent); font-weight:650; font-variant-numeric:tabular-nums; }
+  .m { background:var(--m); }
+  .o { background:var(--o); }
+  .draw { color:var(--muted); }
+  .cards { display:grid; grid-template-columns:1fr 1fr; gap:1rem; margin:1rem 0; }
+  .card { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:1rem; }
+  .card h3 { margin:0 0 .5rem; font-size:1.05rem; }
+  .big { font-size:1.8rem; font-weight:700; color:var(--accent); }
+  footer { color:var(--muted); font-size:.85rem; margin-top:2rem; }
+  @media (max-width:700px) { .cards { grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>Михаил vs Ориана — 20 симуляций</h1>
+  <p class="lead">Михаил (ангел, Saint Mikhail Isen) против Орианы (волшебница хаоса / Chaon с Плоскости Хаоса).</p>
+  <div class="note">Движок: yaronra/battlecon-ai (равновесие Нэша на каждый бит). Не человеческие партии. Время прогона ~707.7 с.</div>
+
+  <div class="cards">
+    <div class="card">
+      <h3>Михаил</h3>
+      <div class="big">8</div>
+      <div>побед · WR <span class="wr">42.1%</span></div>
+    </div>
+    <div class="card">
+      <h3>Ориана</h3>
+      <div class="big">11</div>
+      <div>побед · WR <span class="wr">57.9%</span></div>
+    </div>
+  </div>
+  <p class="lead">Ничьих: 1 · ошибок: 0 · побед по тайм-ауту: 4</p>
+
+  <h2>Сводка по длительности и HP победителя</h2>
+  <table>
+    <thead>
+      <tr><th>Выборка</th><th>N</th><th>Ходов (бит) ср.</th><th>мед.</th><th>мин–макс</th><th>HP победителя ср.</th><th>мед.</th><th>мин–макс</th><th>тайм-ауты</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Все решённые</td><td>19</td>
+        <td>12.16</td><td>12</td>
+        <td>9–15</td>
+        <td class="wr">5.63</td><td>5</td>
+        <td>1–13</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>Когда победил Михаил</td><td>8</td>
+        <td>13.12</td><td>14.5</td>
+        <td>9–15</td>
+        <td class="wr">5.88</td><td>5.0</td>
+        <td>2–12</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>Когда победила Ориана</td><td>11</td>
+        <td>11.45</td><td>11</td>
+        <td>9–15</td>
+        <td class="wr">5.45</td><td>5</td>
+        <td>1–13</td>
+        <td>1</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>Все 20 партий</h2>
+  <table>
+    <thead>
+      <tr><th>#</th><th>Победитель</th><th>Исход</th><th>Ходов (бит)</th><th>HP победителя</th><th>HP Михаила</th><th>HP Орианы</th><th>Время, с</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td class="o">Ориана</td>
+        <td>нокаут</td>
+        <td>11</td>
+        <td class="wr">2</td>
+        <td>0</td>
+        <td>2</td>
+        <td>145.6</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td class="o">Ориана</td>
+        <td>нокаут</td>
+        <td>15</td>
+        <td class="wr">3</td>
+        <td>0</td>
+        <td>3</td>
+        <td>202.1</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td class="o">Ориана</td>
+        <td>нокаут</td>
+        <td>12</td>
+        <td class="wr">8</td>
+        <td>0</td>
+        <td>8</td>
+        <td>203.7</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td class="m">Михаил</td>
+        <td>нокаут</td>
+        <td>12</td>
+        <td class="wr">8</td>
+        <td>8</td>
+        <td>0</td>
+        <td>116.0</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td class="m">Михаил</td>
+        <td>тайм-аут</td>
+        <td>15</td>
+        <td class="wr">12</td>
+        <td>12</td>
+        <td>4</td>
+        <td>117.4</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td class="m">Михаил</td>
+        <td>тайм-аут</td>
+        <td>15</td>
+        <td class="wr">5</td>
+        <td>5</td>
+        <td>1</td>
+        <td>153.6</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td class="o">Ориана</td>
+        <td>нокаут</td>
+        <td>12</td>
+        <td class="wr">2</td>
+        <td>0</td>
+        <td>2</td>
+        <td>156.5</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td class="o">Ориана</td>
+        <td>нокаут</td>
+        <td>10</td>
+        <td class="wr">1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>78.9</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td class="m">Михаил</td>
+        <td>нокаут</td>
+        <td>15</td>
+        <td class="wr">4</td>
+        <td>4</td>
+        <td>0</td>
+        <td>129.0</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td class="o">Ориана</td>
+        <td>нокаут</td>
+        <td>11</td>
+        <td class="wr">5</td>
+        <td>0</td>
+        <td>5</td>
+        <td>120.8</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td class="m">Михаил</td>
+        <td>нокаут</td>
+        <td>9</td>
+        <td class="wr">3</td>
+        <td>3</td>
+        <td>0</td>
+        <td>57.7</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td class="o">Ориана</td>
+        <td>нокаут</td>
+        <td>10</td>
+        <td class="wr">2</td>
+        <td>0</td>
+        <td>2</td>
+        <td>108.0</td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td class="m">Михаил</td>
+        <td>нокаут</td>
+        <td>14</td>
+        <td class="wr">5</td>
+        <td>5</td>
+        <td>0</td>
+        <td>89.4</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td class="o">Ориана</td>
+        <td>нокаут</td>
+        <td>9</td>
+        <td class="wr">7</td>
+        <td>0</td>
+        <td>7</td>
+        <td>139.8</td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td class="m">Михаил</td>
+        <td>нокаут</td>
+        <td>10</td>
+        <td class="wr">8</td>
+        <td>8</td>
+        <td>0</td>
+        <td>154.8</td>
+      </tr>
+      <tr>
+        <td>16</td>
+        <td class="o">Ориана</td>
+        <td>нокаут</td>
+        <td>9</td>
+        <td class="wr">6</td>
+        <td>0</td>
+        <td>6</td>
+        <td>158.2</td>
+      </tr>
+      <tr>
+        <td>17</td>
+        <td class="draw">ничья</td>
+        <td>тайм-аут</td>
+        <td>15</td>
+        <td class="wr">—</td>
+        <td>7</td>
+        <td>7</td>
+        <td>136.9</td>
+      </tr>
+      <tr>
+        <td>18</td>
+        <td class="o">Ориана</td>
+        <td>нокаут</td>
+        <td>12</td>
+        <td class="wr">13</td>
+        <td>0</td>
+        <td>13</td>
+        <td>205.4</td>
+      </tr>
+      <tr>
+        <td>19</td>
+        <td class="m">Михаил</td>
+        <td>тайм-аут</td>
+        <td>15</td>
+        <td class="wr">2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>80.6</td>
+      </tr>
+      <tr>
+        <td>20</td>
+        <td class="o">Ориана</td>
+        <td>тайм-аут</td>
+        <td>15</td>
+        <td class="wr">11</td>
+        <td>8</td>
+        <td>11</td>
+        <td>53.9</td>
+      </tr>
+    </tbody>
+  </table>
+  <footer>
+    Файлы: mikhail-vs-oriana-20.csv / mikhail-vs-oriana-20.json.
+    Старт HP у обоих: 20. «Ходы» = число битов до конца партии.
+  </footer>
+</main>
+</body>
+</html>
