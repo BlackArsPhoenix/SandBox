@@ -739,11 +739,12 @@ def render_preview(mesh: trimesh.Trimesh, output_path: Path) -> None:
         ("rear", 15.0, 75.0),
     )
 
-    maximum_preview_faces = 26000
-    face_step = max(1, len(mesh.faces) // maximum_preview_faces)
-    preview_faces = mesh.faces[::face_step]
-    triangles = mesh.vertices[preview_faces]
-    face_normals = mesh.face_normals[::face_step]
+    preview_mesh = mesh.simplify_quadric_decimation(
+        face_count=30000,
+        aggression=7,
+    )
+    triangles = preview_mesh.vertices[preview_mesh.faces]
+    face_normals = preview_mesh.face_normals
     light_direction = np.asarray([-0.4, -0.7, 0.8])
     light_direction = light_direction / np.linalg.norm(light_direction)
     brightness = np.clip(face_normals @ light_direction, -0.4, 1.0)
