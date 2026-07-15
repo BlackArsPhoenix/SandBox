@@ -15,3 +15,5 @@
 Инструкции/вставки для сборных моделей. См. [model-kits/ms-general-dc-03-harley-quinn/](./model-kits/ms-general-dc-03-harley-quinn/).
 
 STL-прокси мобов/бродячих монстров для *Massive Darkness 2 Zombicide Fantasy Crossover* (без уже имеющихся Black Plague / Deadeye / Bosses / No Rest): [model-kits/massive-darkness-zombicide-crossover/](./model-kits/massive-darkness-zombicide-crossover/).
+
+Печатный STL/GLB-прокси Bloodseeker Minotaur из *Massive Darkness: Troglodytes*: [model-kits/massive-darkness-troglodytes/](./model-kits/massive-darkness-troglodytes/).
