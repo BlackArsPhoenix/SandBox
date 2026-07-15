@@ -11,12 +11,13 @@ import math
 from pathlib import Path
 
 import matplotlib
+
+matplotlib.use("Agg")
+
 import numpy as np
 import trimesh
 from matplotlib import pyplot
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
-
-matplotlib.use("Agg")
 
 
 # region Constants
@@ -40,7 +41,7 @@ FRONT_DIRECTION = np.array([0.0, 1.0, 0.0])
 VERTICAL_DIRECTION = np.array([0.0, 0.0, 1.0])
 MODEL_COLOR = (0.46, 0.26, 0.14, 1.0)
 PREVIEW_BACKGROUND_COLOR = "#181818"
-PREVIEW_MODEL_COLOR = np.array([0.66, 0.38, 0.22])
+PREVIEW_MODEL_COLOR = np.array([0.82, 0.48, 0.28])
 
 # endregion
 
@@ -746,11 +747,10 @@ def render_preview(mesh: trimesh.Trimesh, output_path: Path) -> None:
     light_direction = np.asarray([-0.4, -0.7, 0.8])
     light_direction = light_direction / np.linalg.norm(light_direction)
     brightness = np.clip(face_normals @ light_direction, -0.4, 1.0)
-    brightness = 0.48 + (brightness + 0.4) * 0.38
+    brightness = 0.62 + (brightness + 0.4) * 0.28
     colors = np.clip(PREVIEW_MODEL_COLOR[None, :] * brightness[:, None], 0.0, 1.0)
 
-    center = mesh.bounds.mean(axis=0)
-    maximum_extent = float(max(mesh.extents)) * 0.57
+    padding = np.asarray([4.0, 4.0, 3.0])
     for plot_index, (title, elevation, azimuth) in enumerate(view_settings, start=1):
         axis = figure.add_subplot(1, 3, plot_index, projection="3d")
         collection = Poly3DCollection(
@@ -760,10 +760,10 @@ def render_preview(mesh: trimesh.Trimesh, output_path: Path) -> None:
             linewidths=0.0,
         )
         axis.add_collection3d(collection)
-        axis.set_xlim(center[0] - maximum_extent, center[0] + maximum_extent)
-        axis.set_ylim(center[1] - maximum_extent, center[1] + maximum_extent)
-        axis.set_zlim(0.0, maximum_extent * 2.0)
-        axis.set_box_aspect((1.0, 1.0, 1.25))
+        axis.set_xlim(mesh.bounds[0][0] - padding[0], mesh.bounds[1][0] + padding[0])
+        axis.set_ylim(mesh.bounds[0][1] - padding[1], mesh.bounds[1][1] + padding[1])
+        axis.set_zlim(0.0, mesh.bounds[1][2] + padding[2])
+        axis.set_box_aspect(mesh.extents + padding * 2.0, zoom=1.35)
         axis.view_init(elev=elevation, azim=azimuth)
         axis.set_axis_off()
         axis.set_facecolor(PREVIEW_BACKGROUND_COLOR)
