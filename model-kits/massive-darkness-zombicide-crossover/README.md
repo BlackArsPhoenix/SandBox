@@ -30,6 +30,7 @@
 - Официальных STL от CMON нет.
 - **Бесплатных фан-скульптов, похожих на оригинальные фигурки с карт/коробки, в открытом доступе не найдено** (BGG, Cults, Steam TTS, Tesera, Printables). Подробный отчёт: [`_sources/LOOKALIKE-RESEARCH.md`](_sources/LOOKALIKE-RESEARCH.md).
 - То, что лежит в `_shared-stls/`, — **временные generic-прокси** (не совпадают с позами CMON). Для визуального совпадения с картами кроссовера они **не подходят**.
+- Для **Orc Abomination** добавлены мультиракурсные референсы и сгенерированный силуэтный STL: [`_sources/orc-abomination-refs/`](_sources/orc-abomination-refs/), файл `green-horde/orc-abomination/04-orc-abomination-proxy-generated.stl` (скрипт `scripts/generate_orc_abomination_proxy.py`). Это **не** 1:1 скульпт CMON.
 - Ближе всего к оригиналу (платно): [ciccioneroladro](https://cults3d.com/en/users/ciccioneroladro/3d-models) (KS exclusives “based on original”) и [MiChan](https://cults3d.com/en/users/MiChan/3d-models) (Zombicide-inspired / возможен заказ).
 - Файлы в ролевых папках — симлинки на `_shared-stls/`.
 - Типичный моб MD2: **до 6 minions + 1 leader**.
