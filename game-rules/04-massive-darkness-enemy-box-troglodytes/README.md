@@ -9,6 +9,10 @@
 
 См. PDF правил: [`../_shared/massive-darkness-1/Kromeshnaya-tma-rules-ru.pdf`](../_shared/massive-darkness-1/Kromeshnaya-tma-rules-ru.pdf)
 
+## 3D-модель
+
+Печатный прокси кровожадного минотавра: [`../../model-kits/massive-darkness-troglodytes/`](../../model-kits/massive-darkness-troglodytes/).
+
 ## Метаданные Tesera
 
 - Добавлено в коллекцию Black_Phoenix: `2026-02-10T21:53:13`
