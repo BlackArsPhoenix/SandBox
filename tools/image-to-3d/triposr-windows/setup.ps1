@@ -100,7 +100,7 @@ Assert-CommandAvailable `
     -InstallationHint "Установите Git for Windows: https://git-scm.com/download/win"
 Assert-CommandAvailable `
     -CommandName "py" `
-    -InstallationHint "Установите 64-битный Python $RequiredPythonMajorMinor: https://www.python.org/downloads/windows/"
+    -InstallationHint "Установите 64-битный Python ${RequiredPythonMajorMinor}: https://www.python.org/downloads/windows/"
 
 if ($TorchChannel -ne "cpu") {
     Assert-CommandAvailable `
