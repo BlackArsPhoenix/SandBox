@@ -174,6 +174,8 @@ def main() -> None:
             mesh,
             arguments.voxel_pitch_millimeters,
         )
+        scale_to_height(mesh, arguments.target_height_millimeters)
+        move_to_print_origin(mesh)
 
     arguments.output.parent.mkdir(parents=True, exist_ok=True)
     mesh.export(arguments.output, file_type="stl")
