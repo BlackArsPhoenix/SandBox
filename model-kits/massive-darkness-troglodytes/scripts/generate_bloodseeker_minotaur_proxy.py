@@ -145,7 +145,6 @@ def create_cone_between(
         raise ValueError("Cone endpoints must be different.")
 
     mesh = trimesh.creation.cone(radius=radius, height=length, sections=sections)
-    mesh.apply_translation((0.0, 0.0, length / 2.0))
     alignment = trimesh.geometry.align_vectors(VERTICAL_DIRECTION, direction / length)
     mesh.apply_transform(alignment)
     mesh.apply_translation(base_position)
