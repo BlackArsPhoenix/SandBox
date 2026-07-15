@@ -17,3 +17,7 @@
 STL-прокси мобов/бродячих монстров для *Massive Darkness 2 Zombicide Fantasy Crossover* (без уже имеющихся Black Plague / Deadeye / Bosses / No Rest): [model-kits/massive-darkness-zombicide-crossover/](./model-kits/massive-darkness-zombicide-crossover/).
 
 Печатный STL/GLB-прокси Bloodseeker Minotaur из *Massive Darkness: Troglodytes*: [model-kits/massive-darkness-troglodytes/](./model-kits/massive-darkness-troglodytes/).
+
+## tools
+
+Локальная генерация 3D-модели и печатного STL по одному изображению на Windows 10 без API-ключа: [tools/image-to-3d/triposr-windows/](./tools/image-to-3d/triposr-windows/).
